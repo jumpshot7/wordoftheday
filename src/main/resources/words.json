@@ -1,0 +1,3824 @@
+[
+    {
+        "date": "2025-01-01",
+        "definition": "A person who uses long words.",
+        "ipa": "/ˌsɛs.kwɪ.pɪˈdeɪ.lɪ.ən/",
+        "pos": "Noun",
+        "word": "sesquipedalian"
+    },
+    {
+        "date": "2025-01-02",
+        "definition": "Something which lasts for a short period of time.",
+        "ipa": "/ɛˈfɛ.mə.ɹəl/",
+        "pos": "Noun",
+        "word": "ephemeral"
+    },
+    {
+        "date": "2025-01-03",
+        "definition": "A combination of events which have come together by chance to make a surprisingly good or wonderful outcome.",
+        "ipa": "/ˌsɛɹ.ənˈdɪp.ɪ.ti/",
+        "pos": "Noun",
+        "word": "serendipity"
+    },
+    {
+        "date": "2025-01-04",
+        "definition": "Causing much harm in a subtle way.",
+        "ipa": "/pəˈnɪʃəs/",
+        "pos": "Adjective",
+        "word": "pernicious"
+    },
+    {
+        "date": "2025-01-05",
+        "definition": "(literary) A whispering or rustling sound; a murmur.",
+        "ipa": "/ˈsuː.sə.ɹəs/",
+        "pos": "Noun",
+        "word": "susurrus"
+    },
+    {
+        "date": "2025-01-06",
+        "definition": "Pertaining to the presupposition of an invisible air-like element permeating all of space, or to the higher regions beyond the earth or beyond the atmosphere.",
+        "ipa": "/ɪˈθɪə.ɹɪ.əl/",
+        "pos": "Adjective",
+        "word": "ethereal"
+    },
+    {
+        "date": "2025-01-07",
+        "definition": "Sinful, villainous, criminal, or wicked, especially when noteworthy or notorious for such characteristics.",
+        "ipa": "/nɪˈfɛː.ɹi.əs/",
+        "pos": "Adjective",
+        "word": "nefarious"
+    },
+    {
+        "date": "2025-01-08",
+        "definition": "To make dark; to overshadow.",
+        "ipa": "/ˈɒbfəskeɪt/",
+        "pos": "Verb",
+        "word": "obfuscate"
+    },
+    {
+        "date": "2025-01-09",
+        "definition": "(nonce word) A disease of the lungs, allegedly caused by inhaling microscopic silicate particles originating from the eruption of a volcano. ",
+        "ipa": "/njuːˌmɒ.nəʊ.ʌl.tɹə.maɪ.kɹəʊˈskɒ.pɪkˌsɪ.lɪ.kəʊ.vɒl.keɪ.nəʊ.kəʊ.niˈəʊ.sɪs/",
+        "pos": "Noun",
+        "word": "pneumonoultramicroscopicsilicovolcanoconiosis"
+    },
+    {
+        "date": "2025-01-10",
+        "definition": "A mix of discordant sounds; dissonance.",
+        "ipa": "/kəˈkɒfəni/",
+        "pos": "Noun",
+        "word": "cacophony"
+    },
+    {
+        "date": "2025-01-11",
+        "definition": "The act of throwing something or someone out of a window. [from c. 17th c.]",
+        "ipa": "/dɪˌfɛnɪˈstɹeɪʃ(ə)n/",
+        "pos": "Noun",
+        "word": "defenestration"
+    },
+    {
+        "date": "2025-01-12",
+        "definition": "Appalled, annoyed, exhausted or disgusted.",
+        "ipa": "/ˈflæbə(ˌ)ɡɑːstəd/",
+        "pos": "Adjective",
+        "word": "flabbergasted"
+    },
+    {
+        "date": "2025-01-13",
+        "definition": "Equivalent in meaning or effect; amounting to the same thing in practical terms, even if being technically distinct. [1641–]",
+        "ipa": "/ˈtæntəˌmaʊnt/",
+        "pos": "Adjective",
+        "word": "tantamount"
+    },
+    {
+        "date": "2025-01-14",
+        "definition": "(historical) Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.",
+        "ipa": "/ˈmɛlənkəli/",
+        "pos": "Noun",
+        "word": "melancholy"
+    },
+    {
+        "date": "2025-01-15",
+        "definition": "Talkative; chatty.",
+        "ipa": "/ləʊˈkweɪʃəs/",
+        "pos": "Adjective",
+        "word": "loquacious"
+    },
+    {
+        "date": "2025-01-16",
+        "definition": "(chiefly US, typography) The hash or square symbol #, used mainly in telephony and computing.",
+        "ipa": "/ˈɒktəʊθɔːp/",
+        "pos": "Noun",
+        "word": "octothorpe"
+    },
+    {
+        "date": "2025-01-17",
+        "definition": "A political philosophy opposed to the separation of a religious group (church) and a government (state), especially the belief held by those in 19th-century England opposed to separating the Anglican church from the civil government or to refer to separation of church and state. [from 20th c.]",
+        "ipa": "/ˌæntiˌdɪsɪˌstæblɪʃmənˈtɛəɹiəˌnɪz(ə)m/",
+        "pos": "Noun",
+        "word": "antidisestablishmentarianism"
+    },
+    {
+        "date": "2025-01-18",
+        "definition": "Beyond expression in words; unspeakable. [from 1450]",
+        "ipa": "/ˌɪnˈɛf.ə.bəl/",
+        "pos": "Adjective",
+        "word": "ineffable"
+    },
+    {
+        "date": "2025-01-19",
+        "definition": "The distinctive scent, caused by geosmin, which accompanies the first rain after a long, warm, dry spell.",
+        "ipa": "/ˈpɛt.ɹɪˌkɔɹ, -kɚ/",
+        "pos": "Noun",
+        "word": "petrichor"
+    },
+    {
+        "date": "2025-01-20",
+        "definition": "(narratology) A catastrophe (dramatic event leading to plot resolution) that results in the protagonist's well-being. [from 1944]",
+        "ipa": "/ˌjuːkəˈtæstɹəfi/",
+        "pos": "Noun",
+        "word": "eucatastrophe"
+    },
+    {
+        "date": "2025-01-21",
+        "definition": "(psychology) The tendency to interpret a vague stimulus as something known to the observer, such as interpreting marks on Mars as canals, seeing shapes in clouds, or hearing hidden messages in music.",
+        "ipa": "/ˌpæɹ.aɪˈdəʊ.li.ə/",
+        "pos": "Noun",
+        "word": "pareidolia"
+    },
+    {
+        "date": "2025-01-22",
+        "definition": "(often humorous) The act or habit of describing or regarding something as unimportant, of having no value or being worthless.",
+        "ipa": "/ˌflɒksɪˌnɔːsɪˌnɪhɪlɪˌpɪlɪfɪˈkeɪʃn/",
+        "pos": "Noun",
+        "word": "floccinaucinihilipilification"
+    },
+    {
+        "date": "2025-01-23",
+        "definition": "(figurative) Convoluted, baffling, confusing, perplexing.",
+        "ipa": "/ˌlab.əˈɹɪn.θʌɪn/",
+        "pos": "Adjective",
+        "word": "labyrinthine"
+    },
+    {
+        "date": "2025-01-24",
+        "definition": "Flowing like honey.",
+        "ipa": "/məˈlɪflu.əs/",
+        "pos": "Adjective",
+        "word": "mellifluous"
+    },
+    {
+        "date": "2025-01-25",
+        "definition": "Enthusiastic; high-spirited.",
+        "ipa": "/ɪˈbʊljənt/",
+        "pos": "Adjective",
+        "word": "ebullient"
+    },
+    {
+        "date": "2025-01-26",
+        "definition": "One of two times in the year (one in March and the other in September) when the length of the day and the night are equal, which occurs when the sun is directly overhead at the equator; this marks the beginning of spring in one hemisphere and autumn in the other.",
+        "ipa": "/ˈɛkwɪnɒks/",
+        "pos": "Noun",
+        "word": "equinox"
+    },
+    {
+        "date": "2025-01-27",
+        "definition": "(literary, also figurative) Dark and gloomy; obscure. [from 15th c.]",
+        "ipa": "/ˈtɛn.ɪ.bɹəs/",
+        "pos": "Adjective",
+        "word": "tenebrous"
+    },
+    {
+        "date": "2025-01-28",
+        "definition": "(obsolete) The light or warmth of the Sun.",
+        "ipa": "/əˈpɹɪsɪti/",
+        "pos": "Noun",
+        "word": "apricity"
+    },
+    {
+        "date": "2025-01-29",
+        "definition": "(neologism) The pensive nostalgia and temporality of used bookstores; the feeling evoked by the scent of old books or paper.",
+        "ipa": "/ˈvɛl.əˌkɔː/",
+        "pos": "Noun",
+        "word": "vellichor"
+    },
+    {
+        "date": "2025-01-30",
+        "definition": "(astronomy, astrology) An alignment of three celestial bodies (for example, the Sun, Earth, and Moon) such that one body is directly between the other two, such as occurs at an eclipse.",
+        "ipa": "/ˈsɪz.ɪ.d͡ʒi/",
+        "pos": "Noun",
+        "word": "syzygy"
+    },
+    {
+        "date": "2025-01-31",
+        "definition": "Fleeting, fading quickly, transient.",
+        "ipa": "/fjuːˈɡeɪ.ʃəs/",
+        "pos": "Adjective",
+        "word": "fugacious"
+    },
+    {
+        "date": "2025-02-01",
+        "definition": "(intransitive, slang) To leave quickly or in a hurry; to depart, flee. [from 19th c.]",
+        "ipa": "/æbˈskwɑt͡ʃ.ʊ.leɪt/",
+        "pos": "Verb",
+        "word": "absquatulate"
+    },
+    {
+        "date": "2025-02-02",
+        "definition": "(US) Out of alignment, in disarray or disorder: crooked, askew.",
+        "ipa": "/ˌkætəˈwɑmpəs/",
+        "pos": "Adjective",
+        "word": "catawampus"
+    },
+    {
+        "date": "2025-02-03",
+        "definition": "(political science) Government under the control of a nation's worst or least-qualified citizens.",
+        "ipa": "/kakɪsˈtɒkɹəsɪ/",
+        "pos": "Noun",
+        "word": "kakistocracy"
+    },
+    {
+        "date": "2025-02-04",
+        "definition": "(uncommon, derogatory) Giving opinions on something beyond their knowledge or expertise.",
+        "ipa": "/ˌʌltɹəˌkɹɛpɪˈdɛəɹiən/",
+        "pos": "Adjective",
+        "word": "ultracrepidarian"
+    },
+    {
+        "date": "2025-02-05",
+        "definition": "The study of flags.",
+        "ipa": "/ˌvɛk.sɪˈlɒl.ə.d͡ʒi/",
+        "pos": "Noun",
+        "word": "vexillology"
+    },
+    {
+        "date": "2025-02-06",
+        "definition": "A tinkling sound, as of a bell or of breaking glass.",
+        "ipa": "/ˌtɪntɪnˌnæbjəˈleɪʃən/",
+        "pos": "Noun",
+        "word": "tintinnabulation"
+    },
+    {
+        "date": "2025-02-07",
+        "definition": "A storyteller, especially a person noted for telling stories with skill and wit.",
+        "ipa": "/ˌɹæk.ɒnˈtəː/",
+        "pos": "Noun",
+        "word": "raconteur"
+    },
+    {
+        "date": "2025-02-08",
+        "definition": "A sound like that of distant thunder, some of which may have seismic origins.",
+        "ipa": "/ˈbɹɒntaɪd/",
+        "pos": "Noun",
+        "word": "brontide"
+    },
+    {
+        "date": "2025-02-09",
+        "definition": "(historical, Christianity) One who destroys religious images or icons, especially an opponent of the Orthodox Church in the 8th and 9th centuries, or a Puritan during the European Reformation.",
+        "ipa": "/aɪˈkɒn.əˌklæst/",
+        "pos": "Noun",
+        "word": "iconoclast"
+    },
+    {
+        "date": "2025-02-10",
+        "definition": "(intransitive) To confuse; to fluster; to flabbergast.",
+        "ipa": "/ˈflʌməks/",
+        "pos": "Verb",
+        "word": "flummox"
+    },
+    {
+        "date": "2025-02-11",
+        "definition": "(literary, also figuratively) Radiant, resplendent, shining.",
+        "ipa": "/ɪˈfʌldʒ(ə)nt/",
+        "pos": "Adjective",
+        "word": "effulgent"
+    },
+    {
+        "date": "2025-02-12",
+        "definition": "Attended by, or making, a loud and tumultuous noise; boisterous.",
+        "ipa": "/əbˈstɹɛp.əɹ.əs/",
+        "pos": "Adjective",
+        "word": "obstreperous"
+    },
+    {
+        "date": "2025-02-13",
+        "definition": "(uncountable, collective) Items that have been or are about to be ejected from a boat or balloon.",
+        "ipa": "/əbˈstɹɛp.əɹ.əs/",
+        "pos": "Noun",
+        "word": "jettison"
+    },
+    {
+        "date": "2025-02-14",
+        "definition": "Gloomy, mournful or dismal, especially to an exaggerated degree.",
+        "ipa": "/ləˈɡ(j)u.bɹi.əs/",
+        "pos": "Adjective",
+        "word": "lugubrious"
+    },
+    {
+        "date": "2025-02-15",
+        "definition": "A person who obstinately adheres to old ways in spite of clear evidence that they are wrong; an ignorant and bigoted opponent of reform.",
+        "ipa": "/ˈmʌmpsɪməs/",
+        "pos": "Noun",
+        "word": "mumpsimus"
+    },
+    {
+        "date": "2025-02-16",
+        "definition": "(archaic) A person eager to learn news and scandal.",
+        "ipa": "/ˈkwɪdˌnʌŋk/",
+        "pos": "Noun",
+        "word": "quidnunc"
+    },
+    {
+        "date": "2025-02-17",
+        "definition": "(obsolete) One who whiffles, or frequently changes their course or opinion.",
+        "ipa": "/ˈkwɪdˌnʌŋk/",
+        "pos": "Noun",
+        "word": "whiffler"
+    },
+    {
+        "date": "2025-02-18",
+        "definition": "Hospitable, especially to visiting strangers or foreigners.",
+        "ipa": "/ˈziːnɪəl/",
+        "pos": "Adjective",
+        "word": "xenial"
+    },
+    {
+        "date": "2025-02-19",
+        "definition": "Eagerness; liveliness; enthusiasm.",
+        "ipa": "/əˈlækɹɨti/",
+        "pos": "Noun",
+        "word": "alacrity"
+    },
+    {
+        "date": "2025-02-20",
+        "definition": "(intransitive, US) To speak or discourse at length in a pompous or boastful manner.",
+        "ipa": "/ˈbloʊ.viˌeɪt/",
+        "pos": "Verb",
+        "word": "bloviate"
+    },
+    {
+        "date": "2025-02-21",
+        "definition": "Of or resembling twilight; dim.",
+        "ipa": "/kɹɪˈpʌs.kjʊ.lə/",
+        "pos": "Adjective",
+        "word": "crepuscular"
+    },
+    {
+        "date": "2025-02-22",
+        "definition": "Incessant or incessantly recurring, but futile.",
+        "ipa": "/ˌsɪsəˈfiːən/",
+        "pos": "Adjective",
+        "word": "Sisyphean"
+    },
+    {
+        "date": "2025-02-23",
+        "definition": "Seeming to melt away.",
+        "ipa": "/diˈlɪkwəsənt/",
+        "pos": "Adjective",
+        "word": "deliquescent"
+    },
+    {
+        "date": "2025-02-24",
+        "definition": "Relating to charity, alms, or almsgiving.",
+        "ipa": "/ˌɛl.ɪ.iːˈmɒ.sɪ.nə.ɹi/",
+        "pos": "Adjective",
+        "word": "eleemosynary"
+    },
+    {
+        "date": "2025-02-25",
+        "definition": "Bald, hairless; smooth.",
+        "ipa": "/ˈɡleɪbɹəs/",
+        "pos": "Adjective",
+        "word": "glabrous"
+    },
+    {
+        "date": "2025-02-26",
+        "definition": "(archaic) Habitual disposition; normal or characteristic mode of behaviour, whether from habit or from nature",
+        "ipa": "/ˈhæbɪˌtjuːd/",
+        "pos": "Noun",
+        "word": "habitude"
+    },
+    {
+        "date": "2025-02-27",
+        "definition": "Recently started but not fully formed yet; just begun; only elementary or immature.",
+        "ipa": "/ɪnˈkəʊət/",
+        "pos": "Adjective",
+        "word": "inchoate"
+    },
+    {
+        "date": "2025-02-28",
+        "definition": "(formal, chiefly archaic) Of or pertaining to breakfast; specifically, one taken early in the morning or immediately upon getting up.",
+        "ipa": "/d͡ʒɛnˈtækjʊlə/",
+        "pos": "Adjective",
+        "word": "jentacular"
+    },
+    {
+        "date": "2025-03-01",
+        "definition": "(chiefly Commonwealth, informal) A disorderly outburst, disturbance, commotion, or tumult. [from 19th c.]",
+        "ipa": "/kəˈfʌfəl/",
+        "pos": "Noun",
+        "word": "kerfuffle"
+    },
+    {
+        "date": "2025-03-02",
+        "definition": "Of a voice: characterized by clarity, fullness, smoothness, and strength of sound; hence, of a person: having a clear, full, and strong voice, appropriate for public speaking, reading aloud, etc.",
+        "ipa": "/ˈɒɹə(ʊ)tʌnd/",
+        "pos": "Adjective",
+        "word": "orotund"
+    },
+    {
+        "date": "2025-03-03",
+        "definition": "US standard form of pernickety.",
+        "ipa": "/pɚˈsnɪ.kɪ.ti/",
+        "pos": "Adjective",
+        "word": "persnickety"
+    },
+    {
+        "date": "2025-03-04",
+        "definition": "Synonym of jumping jack (“a toy figure of a person with jointed limbs that can be made to appear to dance or jump by pulling an attached string”)",
+        "ipa": "/ˈkwɒkəˌwɒd͡ʒə/",
+        "pos": "Noun",
+        "word": "quockerwodger"
+    },
+    {
+        "date": "2025-03-05",
+        "definition": "(of areas of discussion or research) Difficult, obscure.",
+        "ipa": "/ˈɹɛk(ə)nˌdaɪt/",
+        "pos": "Adjective",
+        "word": "recondite"
+    },
+    {
+        "date": "2025-03-06",
+        "definition": "A song or poem of lamentation or mourning for a dead person; a dirge; an elegy.",
+        "ipa": "/ˈθɹɛn.ə.di/",
+        "pos": "Noun",
+        "word": "threnody"
+    },
+    {
+        "date": "2025-03-07",
+        "definition": "(transitive) To spoil, make faulty; to reduce the value, quality, or effectiveness of something.",
+        "ipa": "/ˈvɪʃ.i.eɪt/",
+        "pos": "Verb",
+        "word": "vitiate"
+    },
+    {
+        "date": "2025-03-08",
+        "definition": "of, or relating to the wind.",
+        "ipa": "/iˈoʊ.li.ən/",
+        "pos": "Adjective",
+        "word": "aeolian"
+    },
+    {
+        "date": "2025-03-09",
+        "definition": "(physiology) The act or process of swallowing.",
+        "ipa": "/ˌdiːɡluːˈtɪʃ(ə)n/",
+        "pos": "Noun",
+        "word": "deglutition"
+    },
+    {
+        "date": "2025-03-10",
+        "definition": "(literary, Greek philosophy) Tranquility of mind; absence of mental disturbance.",
+        "ipa": "/ætəˈɹæksiə/",
+        "pos": "Noun",
+        "word": "ataraxia"
+    },
+    {
+        "date": "2025-03-11",
+        "definition": "A sudden surge of excitement.",
+        "ipa": "/ˈfɹiː.sɔ̃ː/",
+        "pos": "Noun",
+        "word": "frisson"
+    },
+    {
+        "date": "2025-03-12",
+        "definition": "(ambitransitive) To bristle in fear or horror; to have goose bumps or goose pimples. [from 1620s]",
+        "ipa": "/hɒˈɹɪpɪˌleɪt/",
+        "pos": "Verb",
+        "word": "horripilation"
+    },
+    {
+        "date": "2025-03-13",
+        "definition": "(uncommon) The inability to remember the correct word.",
+        "ipa": "/ˌliθəˈlɑd͡ʒəkə/",
+        "pos": "Noun",
+        "word": "lethologica"
+    },
+    {
+        "date": "2025-03-14",
+        "definition": "Trivial, trifling or of little importance.",
+        "ipa": "/ˈn(j)uːɡətɔɹi/",
+        "pos": "Adjective",
+        "word": "nugatory"
+    },
+    {
+        "date": "2025-03-15",
+        "definition": "Of or pertaining to dreams.",
+        "ipa": "/oʊˈnaɪ.ɹɪk/",
+        "pos": "Adjective",
+        "word": "oneiric"
+    },
+    {
+        "date": "2025-03-16",
+        "definition": "Resembling or characteristic of the Spanish chivalric hero Don Quixote; possessed with or resulting from the desire to do noble and romantic deeds, without thought of realism and practicality; exceedingly idealistic.",
+        "ipa": "/kwɪkˈsɒtɪk/",
+        "pos": "Adjective",
+        "word": "quixotic"
+    },
+    {
+        "date": "2025-03-17",
+        "definition": "A small spark or flash.",
+        "ipa": "/sɪnˈtɪlə/",
+        "pos": "Noun",
+        "word": "scintilla"
+    },
+    {
+        "date": "2025-03-18",
+        "definition": "(derogatory) A reclusive, reactionary or out-of-date person, especially if brutish.",
+        "ipa": "/ˈtɹɒɡlədaɪt/",
+        "pos": "Noun",
+        "word": "troglodyte"
+    },
+    {
+        "date": "2025-03-19",
+        "definition": "to howl loudly or prolongedly in lamentation or joy",
+        "ipa": "/ˈjuːljuleɪt/",
+        "pos": "Verb",
+        "word": "ululate"
+    },
+    {
+        "date": "2025-03-20",
+        "definition": "(dialect) An unsteady walk; a staggering or wobbling.",
+        "ipa": "/ˈwɑm.bəl/",
+        "pos": "Noun",
+        "word": "wamble"
+    },
+    {
+        "date": "2025-03-21",
+        "definition": "(archaic) Ready; prepared.",
+        "ipa": "/jɛː/",
+        "pos": "Adjective",
+        "word": "yare"
+    },
+    {
+        "date": "2025-03-22",
+        "definition": "A light wind from the west.",
+        "ipa": "/ˈzɛfə(ɹ)/",
+        "pos": "Noun",
+        "word": "zephyr"
+    },
+    {
+        "date": "2025-03-23",
+        "definition": "(archaic) The day after tomorrow",
+        "ipa": "/ˌəʊvəˈmɒɹəʊ/",
+        "pos": "Noun",
+        "word": "overmorrow"
+    },
+    {
+        "date": "2025-03-24",
+        "definition": "(archaic, often imperative) To listen attentively",
+        "ipa": "/hɑː(ɹ)k/",
+        "pos": "Verb",
+        "word": "hark"
+    },
+    {
+        "date": "2025-03-25",
+        "definition": "(figurative) Marked by extreme anger or fury.",
+        "ipa": "/ˌæp.əˈplɛk.tɪk/",
+        "pos": "Adjective",
+        "word": "apoplectic"
+    },
+    {
+        "date": "2025-03-26",
+        "definition": "A rumbling sound made by the movement of gas in the intestines.",
+        "ipa": "/bɔːbəˈɹɪɡməs/",
+        "pos": "Noun",
+        "word": "borborygmus"
+    },
+    {
+        "date": "2025-03-27",
+        "definition": "Contemptuous of authority; willfully disobedient; rebellious.",
+        "ipa": "/ˌkɒn.tjʊˈmeɪ.ʃəs/",
+        "pos": "Adjective",
+        "word": "contumacious"
+    },
+    {
+        "date": "2025-03-28",
+        "definition": "(ecology) Of, or relating to symbiosis; living together.",
+        "ipa": "/ˌsɪm.baɪˈɒt.ɪk/",
+        "pos": "Adjective",
+        "word": "symbiotic"
+    },
+    {
+        "date": "2025-03-29",
+        "definition": "(transitive) To bewitch or enchant.",
+        "ipa": "/ɛnˈsɔːs(ə)l/",
+        "pos": "Verb",
+        "word": "ensorcell"
+    },
+    {
+        "date": "2025-03-30",
+        "definition": "(literary) Guilty of terrible crimes; wicked, criminal.",
+        "ipa": "/fləˈdʒɪʃəs/",
+        "pos": "Adjective",
+        "word": "flagitious"
+    },
+    {
+        "date": "2025-03-31",
+        "definition": "Any ploy or stratagem.",
+        "ipa": "/ˈɡæmbɪt/",
+        "pos": "Noun",
+        "word": "gambit"
+    },
+    {
+        "date": "2025-04-01",
+        "definition": "(transitive) To annoy, irritate.",
+        "ipa": "/vɛks/",
+        "pos": "Verb",
+        "word": "vex"
+    },
+    {
+        "date": "2025-04-02",
+        "definition": "Mental lethargy or dullness.",
+        "ipa": "/ˈhɛb.ə.tjuːd/",
+        "pos": "Noun",
+        "word": "hebetude"
+    },
+    {
+        "date": "2025-04-03",
+        "definition": "(mythology) The state of being a lycanthrope (or werewolf), a person who can shapeshift between the form of a human being and a wolf, often said to happen involuntarily during a full moon; werewolfdom.",
+        "ipa": "/laɪˈkanθɹəpi/",
+        "pos": "Noun",
+        "word": "lycanthropy"
+    },
+    {
+        "date": "2025-04-04",
+        "definition": "(medicine) The inability to see clearly in dim light; night blindness",
+        "ipa": "/ˌnɪk.təˈləʊ.pɪ.ə/",
+        "pos": "Noun",
+        "word": "nyctalopia"
+    },
+    {
+        "date": "2025-04-05",
+        "definition": "An opponent or rival.",
+        "ipa": "/ˈæd.və.sɛɹi/",
+        "pos": "Noun",
+        "word": "adversary"
+    },
+    {
+        "date": "2025-04-06",
+        "definition": "(logic, computing) A variable that can hold a single true/false (1/0) value.",
+        "ipa": "/ˈbuːl.i.ən/",
+        "pos": "Noun",
+        "word": "Boolean"
+    },
+    {
+        "date": "2025-04-07",
+        "definition": "Of or pertaining to the suborder Serpentes; of, related to, or characteristic of a snake or serpent.",
+        "ipa": "/oʊˈfɪdi.ən/",
+        "pos": "Adjective",
+        "word": "ophidian"
+    },
+    {
+        "date": "2025-04-08",
+        "definition": "A Swedish-style buffet comprising a variety of cold sandwiches and other dishes; (by extension) any buffet with a wide selection of dishes.",
+        "ipa": "/ˈsmɔːɡæs(ˌ)bɔːd/",
+        "pos": "Noun",
+        "word": "smorgasbord"
+    },
+    {
+        "date": "2025-04-09",
+        "definition": "After the death of someone.",
+        "ipa": "/ˈpɒs.t͡ʃə.məs/",
+        "pos": "Adjective",
+        "word": "posthumous"
+    },
+    {
+        "date": "2025-04-10",
+        "definition": "(rare) A concealed location used for storage or to hide items. [mid 17th century]",
+        "ipa": "/ˈæb.dɪt.ə.ɹi/",
+        "pos": "Noun",
+        "word": "abditory"
+    },
+    {
+        "date": "2025-04-11",
+        "definition": "The use of one's fingers to express numbers.",
+        "ipa": "/ˌdæktɪlˈɒnəmi/",
+        "pos": "Noun",
+        "word": "dactylonomy"
+    },
+    {
+        "date": "2025-04-12",
+        "definition": "Feverish, or having a high temperature.",
+        "ipa": "/ˈfiːbɹaɪl/",
+        "pos": "Adjective",
+        "word": "febrile"
+    },
+    {
+        "date": "2025-04-13",
+        "definition": "(book word, not comparable) Of, pertaining to, or characteristic of goats.",
+        "ipa": "/ˈhɜːsaɪn/",
+        "pos": "Adjective",
+        "word": "hircine"
+    },
+    {
+        "date": "2025-04-14",
+        "definition": "(transitive) To cause someone to become accustomed to something that requires prolonged or repeated tolerance of one or more unpleasantries. [from 16th c.]",
+        "ipa": "/ɪˈnjʊə/",
+        "pos": "Verb",
+        "word": "inure"
+    },
+    {
+        "date": "2025-04-15",
+        "definition": "Simultaneously jocular and serious; mixing mirth with serious matters.",
+        "ipa": "/ˌd͡ʒəʊkəʊˈsɪəɹiəs/",
+        "pos": "Adjective",
+        "word": "jocoserious"
+    },
+    {
+        "date": "2025-04-16",
+        "definition": "(chiefly mammalogy, also figuratively) Of, relating to, or resembling a hare or rabbit.",
+        "ipa": "/ˈlɛpəɹaɪn/",
+        "pos": "Adjective",
+        "word": "leporine"
+    },
+    {
+        "date": "2025-04-17",
+        "definition": "Approaching death; about to die; dying; expiring.",
+        "ipa": "/ˈmɔːɹɪbʌnd/",
+        "pos": "Adjective",
+        "word": "moribund"
+    },
+    {
+        "date": "2025-04-18",
+        "definition": "(figuratively) A perilous, mixed up and troubled situation; a hopeless tangle.",
+        "ipa": "/ˈkwæɡ.maɪə(ɹ)/",
+        "pos": "Noun",
+        "word": "quagmire"
+    },
+    {
+        "date": "2025-04-19",
+        "definition": "Snowy; resembling snow.",
+        "ipa": "/ˈnɪvi.əs/",
+        "pos": "Adjective",
+        "word": "niveous"
+    },
+    {
+        "date": "2025-04-20",
+        "definition": "(transitive) To obstruct, cover, or otherwise block (an opening, a portion of an image, etc.).",
+        "ipa": "/əˈkluːd/",
+        "pos": "Verb",
+        "word": "occlude"
+    },
+    {
+        "date": "2025-04-21",
+        "definition": "(Scotland, Northern England) To make a shrill sound, as of bagpipes.",
+        "ipa": "/skɜːl/",
+        "pos": "Verb",
+        "word": "skirl"
+    },
+    {
+        "date": "2025-04-22",
+        "definition": "An extreme urge to dance, popularly thought to have been caused by the bite of a tarantula (Lycosa tarantula) and prevalent in southern Italy in the 15th through 17th centuries.",
+        "ipa": "/ˈtæɹəntɪzm/",
+        "pos": "Noun",
+        "word": "tarantism"
+    },
+    {
+        "date": "2025-04-23",
+        "definition": "Growing in muddy places.",
+        "ipa": "/juːˈlɪd͡ʒɪnəs/",
+        "pos": "Adjective",
+        "word": "uliginous"
+    },
+    {
+        "date": "2025-04-24",
+        "definition": "A slight wish not followed by any effort to obtain.",
+        "ipa": "/vɛˈliː.ɪ.ti/",
+        "pos": "Noun",
+        "word": "velleity"
+    },
+    {
+        "date": "2025-04-25",
+        "definition": "Pertaining to both pleasure and pain.",
+        "ipa": "/æld͡ʒɪˈdɒnɪk/",
+        "pos": "Adjective",
+        "word": "algedonic"
+    },
+    {
+        "date": "2025-04-26",
+        "definition": "A person who constructs or solves crosswords.",
+        "ipa": "/ˌkɹuːsɪˈvɜː(ɹ)bəlɪst/",
+        "pos": "Noun",
+        "word": "cruciverbalist"
+    },
+    {
+        "date": "2025-04-27",
+        "definition": "(rhetoric) The repetition of words in immediate succession for emphasis.",
+        "ipa": "/ˌɛpɪˈz(j)uːksɪs/",
+        "pos": "Noun",
+        "word": "epizeuxis"
+    },
+    {
+        "date": "2025-04-28",
+        "definition": "A collection containing a confused variety of miscellaneous things.",
+        "ipa": "/fəˈɹeɪɡoʊ/",
+        "pos": "Noun",
+        "word": "farrago"
+    },
+    {
+        "date": "2025-04-29",
+        "definition": "Very cold; icy or frosty.",
+        "ipa": "/ˈd͡ʒɛl.ɪd/",
+        "pos": "Adjective",
+        "word": "gelid"
+    },
+    {
+        "date": "2025-04-30",
+        "definition": "(geometry) A polygon with 697 sides.",
+        "ipa": "/ˌhɛksəˌhɛktəˌɛni.əˌkɒntəkaɪˈhɛptəˌɡən/",
+        "pos": "Noun",
+        "word": "hexahectaenneacontakaiheptagon"
+    },
+    {
+        "date": "2025-05-01",
+        "definition": "A casual conversation; a chat.",
+        "ipa": "/kənˌfæbjʊˈleɪʃən/",
+        "pos": "Noun",
+        "word": "confabulation"
+    },
+    {
+        "date": "2025-05-02",
+        "definition": "(transitive) To place side by side, especially for contrast or comparison.",
+        "ipa": "/ˈd͡ʒʌkstəpəʊz/",
+        "pos": "Verb",
+        "word": "juxtapose"
+    },
+    {
+        "date": "2025-05-03",
+        "definition": "(neologism, rare) The haunting quality of seeing a location typically full of people in a state of emptiness or abandonment.",
+        "ipa": "/kəˈnɒp.si.ə/",
+        "pos": "Noun",
+        "word": "kenopsia"
+    },
+    {
+        "date": "2025-05-04",
+        "definition": "(philosophy) The essence or inherent nature of a person or thing.",
+        "ipa": "/ˈkwɪdɪti/",
+        "pos": "Noun",
+        "word": "quiddity"
+    },
+    {
+        "date": "2025-05-05",
+        "definition": "(neologism) The profound feeling of realizing that everyone, including strangers passing in the street, has a life as complex as one's own, which they are constantly living despite one's personal lack of awareness of it.",
+        "ipa": "/ˈsɑndɚ/",
+        "pos": "Noun",
+        "word": "sonder"
+    },
+    {
+        "date": "2025-05-06",
+        "definition": "The fully shaded inner region of a shadow cast by an opaque object.",
+        "ipa": "/ˈʌmbɹə/",
+        "pos": "Noun",
+        "word": "umbra"
+    },
+    {
+        "date": "2025-05-07",
+        "definition": "(intransitive) To ramble here and there; to stroll; to make an excursion.",
+        "ipa": "/ˈd͡ʒɔːnt/",
+        "pos": "Verb",
+        "word": "jaunt"
+    },
+    {
+        "date": "2025-05-08",
+        "definition": "Of a yellowish colour.",
+        "ipa": "/ˈzænθɪk/",
+        "pos": "Adjective",
+        "word": "xanthic"
+    },
+    {
+        "date": "2025-05-09",
+        "definition": "(countable) A story, a tale, especially one that is incredible.",
+        "ipa": "/jɑːn/",
+        "pos": "Noun",
+        "word": "yarn"
+    },
+    {
+        "date": "2025-05-10",
+        "definition": "(astronomy) The highest point in the sky reached by a celestial body.",
+        "ipa": "/ˈzɛn.ɪθ/",
+        "pos": "Noun",
+        "word": "zenith"
+    },
+    {
+        "date": "2025-05-11",
+        "definition": "Alienation or social instability caused by erosion of standards and values.",
+        "ipa": "/ˈæn.ə.mi/",
+        "pos": "Noun",
+        "word": "anomie"
+    },
+    {
+        "date": "2025-05-12",
+        "definition": "(intransitive) To shrink; start back; give way; flinch; turn aside or fly off.",
+        "ipa": "/blɛnt͡ʃ/",
+        "pos": "Verb",
+        "word": "blench"
+    },
+    {
+        "date": "2025-05-13",
+        "definition": "(anthropology) Having wavy hair.",
+        "ipa": "/saɪˈmɒtɹɪkəs/",
+        "pos": "Adjective",
+        "word": "cymotrichous"
+    },
+    {
+        "date": "2025-05-14",
+        "definition": "Transparent or translucent; allowing light to pass through; capable of being seen through.",
+        "ipa": "/daɪˈæf.ən.əs/",
+        "pos": "Adjective",
+        "word": "diaphanous"
+    },
+    {
+        "date": "2025-05-15",
+        "definition": "An image or representation of an idea; a representation of an ideal form; an apparition of some actual or imaginary entity, or of some aspect of reality.",
+        "ipa": "/aɪˈdəʊlən/",
+        "pos": "Noun",
+        "word": "eidolon"
+    },
+    {
+        "date": "2025-05-16",
+        "definition": "Boastful talk.",
+        "ipa": "/ɡæskəˈneɪd/",
+        "pos": "Noun",
+        "word": "gasconade"
+    },
+    {
+        "date": "2025-05-17",
+        "definition": "(chiefly theology) Promoting or fitted to promote peace or peacemaking, especially over disputes; conciliatory, non-confrontational, peaceful.",
+        "ipa": "/aɪˈɹiːnɪk/",
+        "pos": "Adjective",
+        "word": "irenic"
+    },
+    {
+        "date": "2025-05-18",
+        "definition": "(intransitive) To do something rhythmically, with animation and quickness, usually of music.",
+        "ipa": "/lɪlt/",
+        "pos": "Verb",
+        "word": "lilt"
+    },
+    {
+        "date": "2025-05-19",
+        "definition": "Having or showing a sharp or critical quality",
+        "ipa": "/ˈmɔː(ɹ)dənt/",
+        "pos": "Adjective",
+        "word": "mordant"
+    },
+    {
+        "date": "2025-05-20",
+        "definition": "(literary) Offensive to the senses; disgusting, unpleasant, nauseous, especially having an undesirable smell.",
+        "ipa": "/ˈnɔɪ.səm/",
+        "pos": "Adjective",
+        "word": "noisome"
+    },
+    {
+        "date": "2025-05-21",
+        "definition": "(rare) A person who learns late in life.",
+        "ipa": "/ˈɒpsɪmæθ/",
+        "pos": "Noun",
+        "word": "opsimath"
+    },
+    {
+        "date": "2025-05-22",
+        "definition": "A manuscript or document that has been erased or scraped clean, for reuse of the paper, parchment, vellum, or other medium on which it was written.",
+        "ipa": "/ˈpælɪmpsɛst/",
+        "pos": "Noun",
+        "word": "palimpsest"
+    },
+    {
+        "date": "2025-05-23",
+        "definition": "(philosophy) An instance of subjective, conscious experience.",
+        "ipa": "/ˈkwɑːleɪ/",
+        "pos": "Noun",
+        "word": "quale"
+    },
+    {
+        "date": "2025-05-24",
+        "definition": "A small stream, a rivulet.",
+        "ipa": "/ˈɹʌnəl/",
+        "pos": "Noun",
+        "word": "runnel"
+    },
+    {
+        "date": "2025-05-25",
+        "definition": "Having or showing keen discernment, sound judgment, and farsightedness; mentally shrewd.",
+        "ipa": "/səˈɡeɪʃəs/",
+        "pos": "Adjective",
+        "word": "sagacious"
+    },
+    {
+        "date": "2025-05-26",
+        "definition": "Very devoted and possibly submissive to one's wife; exessive uxorial devotion [from late 16th c.]",
+        "ipa": "/ʌkˈsɔːɹ.i.əs/",
+        "pos": "Adjective",
+        "word": "uxorious"
+    },
+    {
+        "date": "2025-05-27",
+        "definition": "Having a greenish hue; becoming somewhat green in color.",
+        "ipa": "/ˌvɪɹəˈdɛs(ə)nt/",
+        "pos": "Adjective",
+        "word": "viridescent"
+    },
+    {
+        "date": "2025-05-28",
+        "definition": "Specifically, the general happiness of a community, country etc. (often with qualifying word). [from 15th c.]",
+        "ipa": "/wiːl/",
+        "pos": "Noun",
+        "word": "weal"
+    },
+    {
+        "date": "2025-05-29",
+        "definition": "(chess) A situation in which a player is forced to make a disadvantageous move.",
+        "ipa": "/ˈzʌɡzwæŋ/",
+        "pos": "Noun",
+        "word": "zugzwang"
+    },
+    {
+        "date": "2025-05-30",
+        "definition": "(anatomy) The space between the eyebrows and above the nose.",
+        "ipa": "/ɡləˈbɛlə/",
+        "pos": "Noun",
+        "word": "glabella"
+    },
+    {
+        "date": "2025-05-31",
+        "definition": "(of an approach to problem solving, learning, or discovery) That employs a practical method not guaranteed to be optimal or perfect; either not following or derived from any theory, or based on an advisedly oversimplified one. [from 1821]",
+        "ipa": "/hjuˈɹɪstɪk/",
+        "pos": "Adjective",
+        "word": "heuristic"
+    },
+    {
+        "date": "2025-06-01",
+        "definition": "(Greek mythology) The liquid said to flow in place of blood in the veins of the gods. [from late 17th c.]",
+        "ipa": "/ˈaɪkɔː/",
+        "pos": "Noun",
+        "word": "ichor"
+    },
+    {
+        "date": "2025-06-02",
+        "definition": "(chiefly Louisiana, Mississippi, Trinidad and Tobago) An extra or unexpected gift or benefit, such as that given to customers when they purchase something.",
+        "ipa": "/lænˈjæp/",
+        "pos": "Noun",
+        "word": "lagniappe"
+    },
+    {
+        "date": "2025-06-03",
+        "definition": "The sphere of human reason, thought and consciousness, seen as a theoretical evolutionary stage.",
+        "ipa": "/ˈnəʊ.əsfɪə/",
+        "pos": "Noun",
+        "word": "noosphere"
+    },
+    {
+        "date": "2025-06-04",
+        "definition": "A detailed imaginary world, especially one created by a child.",
+        "ipa": "/ˈpæɹəˌkɒz(ə)m/",
+        "pos": "Noun",
+        "word": "paracosm"
+    },
+    {
+        "date": "2025-06-05",
+        "definition": "(intransitive, rare) To talk nonsense or speak vaguely, to waffle",
+        "ipa": "/kwɪdəl/",
+        "pos": "Verb",
+        "word": "quiddle"
+    },
+    {
+        "date": "2025-06-06",
+        "definition": "Anyone refusing to submit to authority or regulation.",
+        "ipa": "/ˈɹɛkjʊzənt/",
+        "pos": "Noun",
+        "word": "recusant"
+    },
+    {
+        "date": "2025-06-07",
+        "definition": "(chiefly anatomy) The front part of the head or skull (as contradistinct from occiput).",
+        "ipa": "/ˈsɪnsɪpʌt/",
+        "pos": "Noun",
+        "word": "sinciput"
+    },
+    {
+        "date": "2025-06-08",
+        "definition": "(prosody) The insertion of one or more words between the components of a compound word.",
+        "ipa": "/t(ə)ˈmiːsɪs/",
+        "pos": "Noun",
+        "word": "tmesis"
+    },
+    {
+        "date": "2025-06-09",
+        "definition": "Regular change or succession from one thing to another, or one part of a cycle to the next; alternation; mutual succession; interchange; variability.",
+        "ipa": "/vɪˈsɪs.ɪˌt(j)uːd/",
+        "pos": "Noun",
+        "word": "vicissitude"
+    },
+    {
+        "date": "2025-06-10",
+        "definition": "(biology) The production of an offspring that is unlike either of its parents.",
+        "ipa": "/zɛnəʊˈd͡ʒɛnəsɪs/",
+        "pos": "Noun",
+        "word": "xenogenesis"
+    },
+    {
+        "date": "2025-06-11",
+        "definition": "(music, poetry) A poem or song evoking or greeting the dawn or early morning.",
+        "ipa": "/əʊˈbɑːd/",
+        "pos": "Noun",
+        "word": "aubade"
+    },
+    {
+        "date": "2025-06-12",
+        "definition": "(painting) An artistic technique developed during the Renaissance, referring to the use of strong contrasts between light and dark in order to create the illusion of volume.",
+        "ipa": "/kɪˌɑːɹəˈskʊəɹəʊ/",
+        "pos": "Noun",
+        "word": "chiaroscuro"
+    },
+    {
+        "date": "2025-06-13",
+        "definition": "(US, informal, often humorous) Wishes, preferences.",
+        "ipa": "/ˈdɹʌðɚz/",
+        "pos": "Noun",
+        "word": "druthers"
+    },
+    {
+        "date": "2025-06-14",
+        "definition": "(intransitive or transitive) To settle comfortably.",
+        "ipa": "/ɛnˈskɒns/",
+        "pos": "Verb",
+        "word": "ensconce"
+    },
+    {
+        "date": "2025-06-15",
+        "definition": "Causing division or fragmenting something.",
+        "ipa": "/fɪˈsɪpəɹəs/",
+        "pos": "Adjective",
+        "word": "fissiparous"
+    },
+    {
+        "date": "2025-06-16",
+        "definition": "(uncountable) Redundant use of words, a pleonasm, an unnecessary and tedious repetition.",
+        "ipa": "/tɔˈtɒl.ə.d͡ʒi/",
+        "pos": "Noun",
+        "word": "tautology"
+    },
+    {
+        "date": "2025-06-17",
+        "definition": "(obsolete) Guaranteed security, sanctuary, safe conduct.",
+        "ipa": "/ɡɹɪθ/",
+        "pos": "Noun",
+        "word": "grith"
+    },
+    {
+        "date": "2025-06-18",
+        "definition": "Bloat or embellish (something) by including (often minor and extraneous) details at regular intervals.",
+        "ipa": "/ˌɪntəˈlɑːd/",
+        "pos": "Verb",
+        "word": "interlard"
+    },
+    {
+        "date": "2025-06-19",
+        "definition": "A lined or crossgrained pattern of ridges or indentations rolled or pressed into a part for grip.",
+        "ipa": "/nɜːl/",
+        "pos": "Noun",
+        "word": "knurl"
+    },
+    {
+        "date": "2025-06-20",
+        "definition": "(intransitive, British, Canada, US, chiefly dialectal) To rain in very fine drops.",
+        "ipa": "/ˈmɪzl/",
+        "pos": "Verb",
+        "word": "mizzle"
+    },
+    {
+        "date": "2025-06-21",
+        "definition": "(neologism, uncommon) Nostalgia for a time or a place one has never known.",
+        "ipa": "/ˌænəˈmɔɪə/",
+        "pos": "Noun",
+        "word": "anemoia"
+    },
+    {
+        "date": "2025-06-22",
+        "definition": "(figurative) Vivacious and enthusiastic.",
+        "ipa": "/ˌɛfəˈvɛsənt/",
+        "pos": "Adjective",
+        "word": "effervescent"
+    },
+    {
+        "date": "2025-06-23",
+        "definition": "A splendid display of something. [from 1829]",
+        "ipa": "/ˈpænəpli/",
+        "pos": "Noun",
+        "word": "panoply"
+    },
+    {
+        "date": "2025-06-24",
+        "definition": "Any of the corner building blocks of a building, usually larger or more ornate than the surrounding blocks.",
+        "ipa": "/k(w)ɔɪn/",
+        "pos": "Noun",
+        "word": "quoin"
+    },
+    {
+        "date": "2025-06-25",
+        "definition": "Possessing a red complexion; ruddy.",
+        "ipa": "/ˈɹuːbɪk(ə)nd/",
+        "pos": "Adjective",
+        "word": "rubicund"
+    },
+    {
+        "date": "2025-06-26",
+        "definition": "The practice of using fermentation to produce alcoholic beverages.",
+        "ipa": "/ˈzaɪˌmɜːd͡ʒi/",
+        "pos": "Noun",
+        "word": "zymurgy"
+    },
+    {
+        "date": "2025-06-27",
+        "definition": "A bauble, knickknack or trinket.",
+        "ipa": "/bib(ə)loʊ/",
+        "pos": "Noun",
+        "word": "bibelot"
+    },
+    {
+        "date": "2025-06-28",
+        "definition": "Compulsion; mania.",
+        "ipa": "/ˌkækəʊˈiːθiːz/",
+        "pos": "Noun",
+        "word": "cacoethes"
+    },
+    {
+        "date": "2025-06-29",
+        "definition": "A feeling of anger or resentment, especially haughty indignation.",
+        "ipa": "/ˈdʌd͡ʒən/",
+        "pos": "Noun",
+        "word": "dudgeon"
+    },
+    {
+        "date": "2025-06-30",
+        "definition": "Having the opinion that all human activity is futile.",
+        "ipa": "/fjuːˌtɪlɪˈtɛəɹi.ən/",
+        "pos": "Adjective",
+        "word": "futilitarian"
+    },
+    {
+        "date": "2025-07-01",
+        "definition": "Of a pale grey or bluish-green, especially when covered with a powdery residue.",
+        "ipa": "/ˈɡlɔː.kəs/",
+        "pos": "Adjective",
+        "word": "glaucous"
+    },
+    {
+        "date": "2025-07-02",
+        "definition": "Carelessness, heedlessness, indifference, or casual unconcern.",
+        "ipa": "/ɪnˈsuːsi.əns/",
+        "pos": "Adjective",
+        "word": "insouciance"
+    },
+    {
+        "date": "2025-07-03",
+        "definition": "Jovial; exuberant; lighthearted; merry and in high spirits; exhibiting happiness.",
+        "ipa": "/ˈd͡ʒɒkənd/",
+        "pos": "Adjective",
+        "word": "jocund"
+    },
+    {
+        "date": "2025-07-04",
+        "definition": "Lagging behind; taking more time than the others in a group",
+        "ipa": "/ˈlæɡəd/",
+        "pos": "Adjective",
+        "word": "laggard"
+    },
+    {
+        "date": "2025-07-05",
+        "definition": "An awkward adolescent youth.",
+        "ipa": "/ˈhɒbəldihɔɪ/",
+        "pos": "Noun",
+        "word": "hobbledehoy"
+    },
+    {
+        "date": "2025-07-06",
+        "definition": "Lean; thin; emaciated",
+        "ipa": "/ˈmas.ɪ.lənt/",
+        "pos": "Adjective",
+        "word": "macilent"
+    },
+    {
+        "date": "2025-07-07",
+        "definition": "The act of cultivating, or growing and grooming, a mustache, beard, sideburns or other facial hair.",
+        "ipa": "/ˌpoʊɡəˈnɑtɹəfi/",
+        "pos": "Noun",
+        "word": "pogonotrophy"
+    },
+    {
+        "date": "2025-07-08",
+        "definition": "Inactive, quiet, at rest.",
+        "ipa": "/kwaɪˈɛsənt/",
+        "pos": "Adjective",
+        "word": "quiescent"
+    },
+    {
+        "date": "2025-07-09",
+        "definition": "Irritating, repellent.",
+        "ipa": "/ɹɪˈbɑːbətɪv/",
+        "pos": "Adjective",
+        "word": "rebarbative"
+    },
+    {
+        "date": "2025-07-10",
+        "definition": "Eager or quick to argue, fight or start a conflict.",
+        "ipa": "/ˈtɹʌk.jʊ.lənt/",
+        "pos": "Adjective",
+        "word": "truculent"
+    },
+    {
+        "date": "2025-07-11",
+        "definition": "(law) The legal right to use and derive profit or benefit from property that belongs to another person, as long as the property is not damaged.",
+        "ipa": "/ˈjuːz(j)ʊfɹʌkt/",
+        "pos": "Noun",
+        "word": "usufruct"
+    },
+    {
+        "date": "2025-07-12",
+        "definition": "Pertaining to a fox.",
+        "ipa": "/ˈvʌlpaɪn/",
+        "pos": "Adjective",
+        "word": "vulpine"
+    },
+    {
+        "date": "2025-07-13",
+        "definition": "(formal, archaic) Full of anger; wrathful.",
+        "ipa": "/ɹəʊθ/",
+        "pos": "Adjective",
+        "word": "wroth"
+    },
+    {
+        "date": "2025-07-14",
+        "definition": "Continual unnecessary reiteration of the same words, phrases, or ideas.",
+        "ipa": "/baˈtɒl.ə.dʒi/",
+        "pos": "Noun",
+        "word": "battology"
+    },
+    {
+        "date": "2025-07-15",
+        "definition": "Clockwise motion.",
+        "ipa": "/ˈdjɛʃəl/",
+        "pos": "Noun",
+        "word": "deasil"
+    },
+    {
+        "date": "2025-07-16",
+        "definition": "(neuroscience) Marked by or resulting from extraordinary ability to recall detailed and vivid mental images of visual images.",
+        "ipa": "/aɪˈdɛtɪk/",
+        "pos": "Adjective",
+        "word": "eidetic"
+    },
+    {
+        "date": "2025-07-17",
+        "definition": "wistfulness; nostalgia; longing; homesickness; a deep feeling of yearning for something, someone or somewhere",
+        "ipa": "/ˈhɪraɨ̯θ/",
+        "pos": "Noun",
+        "word": "hiraeth"
+    },
+    {
+        "date": "2025-07-18",
+        "definition": "A person in whom one can confide or share one's secrets: a friend.",
+        "ipa": "/ˈkɑn.fɪ.dɑnt/",
+        "pos": "Noun",
+        "word": "confidant"
+    },
+    {
+        "date": "2025-07-19",
+        "definition": "A complicated situation; an entanglement.",
+        "ipa": "/ɪmˈbɹəʊljəʊ/",
+        "pos": "Noun",
+        "word": "imbroglio"
+    },
+    {
+        "date": "2025-07-20",
+        "definition": "To bring (something) into a state of confusion or uproar; to complicate, to confuse, to jumble.",
+        "ipa": "/ɪmˈbɹɔɪl/",
+        "pos": "Verb",
+        "word": "embroil"
+    },
+    {
+        "date": "2025-07-21",
+        "definition": "(chiefly archaic, rare) Prodigal expenditure on food.",
+        "ipa": "/əˌblɪɡjʊˈɹɪʃən/",
+        "pos": "Noun",
+        "word": "abligurition"
+    },
+    {
+        "date": "2025-07-22",
+        "definition": "(transitive, reflexive) To offer for acceptance; to propose to give; to make a tender of.",
+        "ipa": "/ˈpɹɒfə(ɹ)/",
+        "pos": "Verb",
+        "word": "proffer"
+    },
+    {
+        "date": "2025-07-23",
+        "definition": "The full adverse effects; the chief consequences or negative results of a thing or event.",
+        "ipa": "/bɹʌnt/",
+        "pos": "Noun",
+        "word": "brunt"
+    },
+    {
+        "date": "2025-07-24",
+        "definition": "The use of the fingers and hands to communicate ideas, especially by the deaf.",
+        "ipa": "/ˌdæktɪlˈɒlədʒi/",
+        "pos": "Noun",
+        "word": "dactylology"
+    },
+    {
+        "date": "2025-07-25",
+        "definition": "(countable, botany, also figuratively) A plant with flowers which turn to face and follow the sun, such as (archaic) marigolds and sunflowers.",
+        "ipa": "/ˈhiː.li.ə.tɹəʊp/",
+        "pos": "Noun",
+        "word": "heliotrope"
+    },
+    {
+        "date": "2025-07-26",
+        "definition": "Turned or twisted to one side.",
+        "ipa": "/əˈskjuː/",
+        "pos": "Adjective",
+        "word": "askew"
+    },
+    {
+        "date": "2025-07-27",
+        "definition": "Resembling the totalitarian political methods decried in the works of writer George Orwell, particularly in the dystopian novel Nineteen Eighty-Four; characterized by use of misleading terminology, propaganda, censorship, surveillance and repression. [1950]",
+        "ipa": "/ɔɹˈwɛli.ən/",
+        "pos": "Adjective",
+        "word": "Orwellian"
+    },
+    {
+        "date": "2025-07-28",
+        "definition": "A sudden departure of a large number of people.",
+        "ipa": "/ˈɛksədəs/",
+        "pos": "Noun",
+        "word": "exodus"
+    },
+    {
+        "date": "2025-07-29",
+        "definition": "(figuratively) Of acute discernment; having keen insight; mentally perceptive.",
+        "ipa": "/ˌpɜː.spɪˈkeɪ.ʃəs/",
+        "pos": "Adjective",
+        "word": "perspicacious"
+    },
+    {
+        "date": "2025-07-30",
+        "definition": "one who sleeps late or not at all; or, one who stays out late to revel or party",
+        "ipa": "/nɔ.sœʁ/",
+        "pos": "Noun",
+        "word": "noceur"
+    },
+    {
+        "date": "2025-07-31",
+        "definition": "(transitive, rare) To scatter or be scattered so as to resemble a group of islands.",
+        "ipa": "/ˌɑːkɪˈpɛləɡəʊ/",
+        "pos": "Verb",
+        "word": "archipelago"
+    },
+    {
+        "date": "2025-08-01",
+        "definition": "The purchasing of objects as a form of mental relaxation",
+        "ipa": "/ˌəʊniəʊkəˈleɪziə/",
+        "pos": "Noun",
+        "word": "oniochalasia"
+    },
+    {
+        "date": "2025-08-02",
+        "definition": "(rhetoric) A device by which two contrasting ideas are juxtaposed in parallel form; a figure of speech arranged in this manner",
+        "ipa": "/ænˈtɪ.θə.sɪs/",
+        "pos": "Noun",
+        "word": "antithesis"
+    },
+    {
+        "date": "2025-08-03",
+        "definition": "Occurring every 150 years.",
+        "ipa": "/ˌsɛskwɪsɛnˈtɛni.əl/",
+        "pos": "Adjective",
+        "word": "sesquicentennial"
+    },
+    {
+        "date": "2025-08-04",
+        "definition": "A daring or adventurous act; an undertaking which goes against convention.",
+        "ipa": "/ˈɛskəˌpeɪd/",
+        "pos": "Noun",
+        "word": "escapade"
+    },
+    {
+        "date": "2025-08-05",
+        "definition": "(medicine) A mild inherited condition in which the sufferer has symptoms similar to those of pseudohypoparathyroidism.",
+        "ipa": "/ˌsjuː.dəʊˌsjuː.dəʊˌhaɪ.pəʊ.pæɹ.əˈθaɪ.ɹɔɪd.ɪzəm/",
+        "pos": "Noun",
+        "word": "pseudopseudohypoparathyroidism"
+    },
+    {
+        "date": "2025-08-06",
+        "definition": "(ambitransitive, chiefly formal) To predict or foretell future events; to prophesy or presage.",
+        "ipa": "/vəˈtɪ.səˌneɪt/",
+        "pos": "Verb",
+        "word": "vaticinate"
+    },
+    {
+        "date": "2025-08-07",
+        "definition": "(business, historical) A large business conglomerate founded under the Empire of Japan, generally controlled by a single family or individual.",
+        "ipa": "/zaɪˈbætsuː/",
+        "pos": "Noun",
+        "word": "zaibatsu"
+    },
+    {
+        "date": "2025-08-08",
+        "definition": "A special mark added to a letter to indicate a different pronunciation, stress, tone, or meaning.",
+        "ipa": "/ˌdaɪəˈkɹɪtɪk/",
+        "pos": "Noun",
+        "word": "diacritic"
+    },
+    {
+        "date": "2025-08-09",
+        "definition": "Malicious enjoyment derived from observing someone else's misfortune.",
+        "ipa": "/ˈʃɑː.dən.fɹɔɪ.də/",
+        "pos": "Noun",
+        "word": "schadenfreude"
+    },
+    {
+        "date": "2025-08-10",
+        "definition": "Done or kept in secret, sometimes to conceal an illicit or improper purpose.",
+        "ipa": "/klænˈdɛst(a)ɪn/",
+        "pos": "Adjective",
+        "word": "clandestine"
+    },
+    {
+        "date": "2025-08-11",
+        "definition": "(formal, rare) One who dwells by a river.",
+        "ipa": "/æmˈnɪkəlɪst/",
+        "pos": "Noun",
+        "word": "amnicolist"
+    },
+    {
+        "date": "2025-08-12",
+        "definition": "(transitive) To calm; to bring peace to; to influence someone who was furious to the point that they become content or at least no longer irate.",
+        "ipa": "/pləˈkeɪt/",
+        "pos": "Verb",
+        "word": "placate"
+    },
+    {
+        "date": "2025-08-13",
+        "definition": "(uncountable) A friendly, good-natured, pleasant manner; an affable and approachable disposition; friendliness.",
+        "ipa": "/ˈbɒnəmiː/",
+        "pos": "Noun",
+        "word": "bonhomie"
+    },
+    {
+        "date": "2025-08-14",
+        "definition": "(uncountable) The use of a word or phrase carrying negative connotations or imagery (especially one that is derogatory, offensive or vulgar) to replace a (more) neutral original.",
+        "ipa": "/ˈdɪs.fəˌmɪ.z(ə)m/",
+        "pos": "Noun",
+        "word": "dysphemism"
+    },
+    {
+        "date": "2025-08-15",
+        "definition": "(computing) A unit of memory equal to half a byte, or chiefly four bits.",
+        "ipa": "/ˈnɪbl̩/",
+        "pos": "Noun",
+        "word": "nibble"
+    },
+    {
+        "date": "2025-08-16",
+        "definition": "(now dated) Someone's birth; the place, time and circumstances of a birth.",
+        "ipa": "/nəˈtɪvɪti/",
+        "pos": "Noun",
+        "word": "nativity"
+    },
+    {
+        "date": "2025-08-17",
+        "definition": "(uncommon, sometimes proscribed) Synonym of sixtysomething: a person between 60 and 69 years old.",
+        "ipa": "/ˌhɛk.sə.d͡ʒɪˈnɛəɹi.ən/",
+        "pos": "Noun",
+        "word": "hexagenarian"
+    },
+    {
+        "date": "2025-08-18",
+        "definition": "An extreme manifestation of a pyrocumulus, generated by the heat of a wildfire, that often rises to the upper troposphere or lower stratosphere.",
+        "ipa": "/ˌpaɪɹəʊˌkjuːmjʊləˈnɪmbəs/",
+        "pos": "Noun",
+        "word": "pyrocumulonimbus"
+    },
+    {
+        "date": "2025-08-19",
+        "definition": "(neurology, chiefly science fiction) A sensory signal (such as an image or sound) that directly causes harmful or undesired physiological effects to one who senses or perceives it.",
+        "ipa": "/kɒɡˈni.təʊˌhæ.zəd/",
+        "pos": "Noun",
+        "word": "cognitohazard"
+    },
+    {
+        "date": "2025-08-20",
+        "definition": "(archaic) One falsely claiming to possess medical or other skills, especially one who dispenses potions, ointments, etc., supposedly having curative powers; a quack.",
+        "ipa": "/ˈkwæksælvə/",
+        "pos": "Noun",
+        "word": "quacksalver"
+    },
+    {
+        "date": "2025-08-21",
+        "definition": "(formal, now often humorous) Very greedy or hungry; ravenous; (figuratively) avid, eager. [from late 17th c.]",
+        "ipa": "/ɪˈsjʊə.ɹɪ.ənt/",
+        "pos": "Adjective",
+        "word": "esurient"
+    },
+    {
+        "date": "2025-08-22",
+        "definition": "(obsolete, intransitive) To swell up (of water, waves etc.); to overflow, to surge (of bodily fluids). [14th–19th c.]",
+        "ipa": "/ɹɪˈdaʊnd/",
+        "pos": "Verb",
+        "word": "redound"
+    },
+    {
+        "date": "2025-08-23",
+        "definition": "Expressing approval.",
+        "ipa": "/ˈæp.ɹəˌbeɪ.tɪv/",
+        "pos": "Adjective",
+        "word": "approbative"
+    },
+    {
+        "date": "2025-08-24",
+        "definition": "Impossible to prevent or stop; inevitable. [from mid 16th c.]",
+        "ipa": "/ɪnˈɛksɔɹəbəl/",
+        "pos": "Adjective",
+        "word": "inexorable"
+    },
+    {
+        "date": "2025-08-25",
+        "definition": "(transitive, usually with “out”) To dispense, measure in order to dispense, allot (especially punishment, reward etc.).",
+        "ipa": "/miːt/",
+        "pos": "Verb",
+        "word": "mete"
+    },
+    {
+        "date": "2025-08-26",
+        "definition": "(taxonomy, biology, paleontology) Initialism of last universal common ancestor; the hypothesised most recent primordial organism that is an ancestor to all organisms now living.",
+        "ipa": "/ˈluːkə/",
+        "pos": "Noun",
+        "word": "LUCA"
+    },
+    {
+        "date": "2025-08-27",
+        "definition": "(theoretical physics) A concentration of light so intense that it forms an event horizon and becomes self-trapped, forming a black hole.",
+        "ipa": "/ˈkuːɡl̩ˌblɪt͡s/",
+        "pos": "Noun",
+        "word": "kugelblitz"
+    },
+    {
+        "date": "2025-08-28",
+        "definition": "The cover at the tip of a shoelace, to prevent it from fraying.",
+        "ipa": "/ˈæ.ɡlət/",
+        "pos": "Noun",
+        "word": "aglet"
+    },
+    {
+        "date": "2025-08-29",
+        "definition": "A person, especially an entertainer, who practices ventriloquism.",
+        "ipa": "/vɛnˈtɹɪl.ə.kwɪst/",
+        "pos": "Noun",
+        "word": "ventriloquist"
+    },
+    {
+        "date": "2025-08-30",
+        "definition": "(intransitive) To make gestures or motions, as in speaking.",
+        "ipa": "/dʒɛsˈtɪkjʊleɪt/",
+        "pos": "Verb",
+        "word": "gesticulate"
+    },
+    {
+        "date": "2025-08-31",
+        "definition": "(transitive, intransitive, obsolete) To deviate, transgress; to go astray (from).",
+        "ipa": "/pɹɪˈvaɹɪkeɪt/",
+        "pos": "Verb",
+        "word": "prevaricate"
+    },
+    {
+        "date": "2025-09-01",
+        "definition": "(geology) A broad glacial valley formed during an ice age by meltwater flowing roughly parallel to the ice margin.",
+        "ipa": "/ˈʊəstɹəʊmˌtɑːl/",
+        "pos": "Noun",
+        "word": "urstromtal"
+    },
+    {
+        "date": "2025-09-02",
+        "definition": "A collection of dead life forms that are found together, having previously interacted as a community within an ecosystem.",
+        "ipa": "/θəˌnætəʊˈsiːnəʊs/",
+        "pos": "Noun",
+        "word": "thanatocoenose"
+    },
+    {
+        "date": "2025-09-03",
+        "definition": "(informal) An outstanding, extreme, or outrageous example of its kind.",
+        "ipa": "/ˌlɑləpəˈluzə/",
+        "pos": "Noun",
+        "word": "lollapalooza"
+    },
+    {
+        "date": "2025-09-04",
+        "definition": "(religion) A spirit, deity, person, etc., who guides the souls of the dead to the afterlife.",
+        "ipa": "/ˈsaɪkəʊpɒmp/",
+        "pos": "Noun",
+        "word": "psychopomp"
+    },
+    {
+        "date": "2025-09-05",
+        "definition": "A person given to excess in the consumption of food and drink; a greedy or ravenous eater.",
+        "ipa": "/ˈɡʊə.mənd/",
+        "pos": "Noun",
+        "word": "gourmand"
+    },
+    {
+        "date": "2025-09-06",
+        "definition": "(transitive) To feel or express compassion or sympathy for (someone or something).",
+        "ipa": "/kəˈmɪzəɹeɪt/",
+        "pos": "Verb",
+        "word": "commiserate"
+    },
+    {
+        "date": "2025-09-07",
+        "definition": "The condition or state of a man who is overly concerned about his clothes and appearance.",
+        "ipa": "/ˌdæn.dɪ.fɪˈkeɪ.ʃən/",
+        "pos": "Noun",
+        "word": "dandification"
+    },
+    {
+        "date": "2025-09-08",
+        "definition": "(computing) A software bug which fails to manifest itself or manifests differently during debugging.",
+        "ipa": "/ˈhaɪzənˌbʌɡ/",
+        "pos": "Noun",
+        "word": "heisenbug"
+    },
+    {
+        "date": "2025-09-09",
+        "definition": "(mathematics, geometry) The four-dimensional analogue of a cube; a 4D polytope bounded by eight cubes (analogously to the way a cube is bounded by six squares).",
+        "ipa": "/ˈte-sə-ˌrakt/",
+        "pos": "Noun",
+        "word": "tesseract"
+    },
+    {
+        "date": "2025-09-10",
+        "definition": "To make a strenuous long-distance march.",
+        "ipa": "/jɒmp/",
+        "pos": "Verb",
+        "word": "yomp"
+    },
+    {
+        "date": "2025-09-11",
+        "definition": "Making a show of being morally better than others, especially hypocritically pious.",
+        "ipa": "/ˌsæŋk.tɪˈməʊ.ni.əs/",
+        "pos": "Adjective",
+        "word": "sanctimonious"
+    },
+    {
+        "date": "2025-09-12",
+        "definition": "(derogatory) A person who is ignorant or uneducated; specifically, a person who lacks appreciation of or is antagonistic towards art or culture, and who has pedestrian tastes.",
+        "ipa": "/ˈfɪlɪstaɪn/",
+        "pos": "Noun",
+        "word": "philistine"
+    },
+    {
+        "date": "2025-09-13",
+        "definition": "(chiefly botany, rare) Heaped, or growing in heaps, or closely compacted clusters.",
+        "ipa": "/ˈæs.ə.veɪt/",
+        "pos": "Adjective",
+        "word": "acervate"
+    },
+    {
+        "date": "2025-09-14",
+        "definition": "Not constrained, not restrained, or not confined, great in amount or degree.",
+        "ipa": "/ʌnˈstɪn.tɪd/",
+        "pos": "Adjective",
+        "word": "unstinted"
+    },
+    {
+        "date": "2025-09-15",
+        "definition": "Marked by a stubborn unwillingness to obey authority.",
+        "ipa": "/ɹɪˈkæl.sɪ.tɹənt/",
+        "pos": "Adjective",
+        "word": "recalcitrant"
+    },
+    {
+        "date": "2025-09-16",
+        "definition": "(intransitive) To walk on ropes; to tightrope-walk.",
+        "ipa": "/fjʊˈnæm.bjʊ.leɪt/",
+        "pos": "Verb",
+        "word": "funambulate"
+    },
+    {
+        "date": "2025-09-17",
+        "definition": "(transitive) To decide, rule on, or settle as a judge.",
+        "ipa": "/əˈd͡ʒuː.dɪ.keɪt/",
+        "pos": "Verb",
+        "word": "adjudicate"
+    },
+    {
+        "date": "2025-09-18",
+        "definition": "Containing, consisting of, or producing harsh, unpleasant or discordant sounds.",
+        "ipa": "/kəˈkɑfənəs/",
+        "pos": "Adjective",
+        "word": "cacophonous"
+    },
+    {
+        "date": "2025-09-19",
+        "definition": "(of a word) Having more than one syllable; having multiple or many syllables.",
+        "ipa": "/ˌpɒ.lɪ.sɪˈlæ.bɪk/",
+        "pos": "Adjective",
+        "word": "polysyllabic"
+    },
+    {
+        "date": "2025-09-20",
+        "definition": "(uncountable) The fact or condition of being untruthful; dishonesty.",
+        "ipa": "/mɛnˈdæsəti/",
+        "pos": "Noun",
+        "word": "mendacity"
+    },
+    {
+        "date": "2025-09-21",
+        "definition": "Someone who climbs Mount Everest.",
+        "ipa": "/ˈɛvɹɪstəɹ/",
+        "pos": "Noun",
+        "word": "Everester"
+    },
+    {
+        "date": "2025-09-22",
+        "definition": "(video games) The quantity of a given item which fills up an inventory slot or bag.",
+        "ipa": "/stæk/",
+        "pos": "Noun",
+        "word": "stack"
+    },
+    {
+        "date": "2025-09-23",
+        "definition": "(computing, linguistics, transitive) To attach (an expression, phrase, etc.) to another, as a prefix.",
+        "ipa": "/pɹɪˈpɛnd/",
+        "pos": "Verb",
+        "word": "prepend"
+    },
+    {
+        "date": "2025-09-24",
+        "definition": "(US, slang, dated) Cool, awesome.",
+        "ipa": "/ˈtjuːbjʊlə/",
+        "pos": "Adjective",
+        "word": "tubular"
+    },
+    {
+        "date": "2025-09-25",
+        "definition": "Not permitting water or some other liquid to escape or penetrate; watertight.",
+        "ipa": "/stɔːn(t)ʃ/",
+        "pos": "Adjective",
+        "word": "staunch"
+    },
+    {
+        "date": "2025-09-26",
+        "definition": "Armed or prepared for battle (literally or figuratively).",
+        "ipa": "/ɛmˈbætl̩d/",
+        "pos": "Adjective",
+        "word": "embattled"
+    },
+    {
+        "date": "2025-09-27",
+        "definition": "One who masters or becomes fluent in many different languages (six or more).",
+        "ipa": "/ˌhaɪpəɹˈpɒliɡlɒt/",
+        "pos": "Noun",
+        "word": "hyperpolyglot"
+    },
+    {
+        "date": "2025-09-28",
+        "definition": "(geometry) The set of all points in a given hyperspace that are at a given distance from a given point; a generalization of a sphere in four or more dimensions.",
+        "ipa": "/ˈhaɪ.pəˌsfɪə/",
+        "pos": "Noun",
+        "word": "hypersphere"
+    },
+    {
+        "date": "2025-09-29",
+        "definition": "Poor; destitute; in need.",
+        "ipa": "/ˈɪndɪd͡ʒənt/",
+        "pos": "Adjective",
+        "word": "indigent"
+    },
+    {
+        "date": "2025-09-30",
+        "definition": "(geometry) Adhering to the principles of traditional geometry, in which parallel lines are equidistant.",
+        "ipa": "/juːˈklɪd.i.ən/",
+        "pos": "Adjective",
+        "word": "Euclidean"
+    },
+    {
+        "date": "2025-10-01",
+        "definition": "(uncountable) Peatland from which peat or turf may be cut for fuel; (countable) a piece of such land; a peat bog.",
+        "ipa": "/ˈtɜːbəɹi/",
+        "pos": "Noun",
+        "word": "turbary"
+    },
+    {
+        "date": "2025-10-02",
+        "definition": "(quantum computing) A quantum bit; the basic unit of quantum information described by a superposition of two states; a quantum bit in a quantum computer capable of being in a state of superposition; A binary qudit.",
+        "ipa": "/ˈkjuːbɪt/",
+        "pos": "Noun",
+        "word": "qubit"
+    },
+    {
+        "date": "2025-10-03",
+        "definition": "(chiefly UK, Ireland, Commonwealth, dated in North America) A period of 2 weeks.",
+        "ipa": "/ˈfɔːt.naɪt/",
+        "pos": "Noun",
+        "word": "fortnight"
+    },
+    {
+        "date": "2025-10-04",
+        "definition": "(geometry) A geometric curve traced by a fixed point on the radius line outside one circle which rotates inside the perimeter of another circle.",
+        "ipa": "/ˌhaɪ.pə(ʊ)ˈtɹəʊ.kɔɪd/",
+        "pos": "Noun",
+        "word": "hypotrochoid"
+    },
+    {
+        "date": "2025-10-05",
+        "definition": "Made up of three things.",
+        "ipa": "/ˈtɜː.nə.ɹi/",
+        "pos": "Adjective",
+        "word": "ternary"
+    },
+    {
+        "date": "2025-10-06",
+        "definition": "To besiege; to surround with troops.",
+        "ipa": "/bɪˈliː.ɡə/",
+        "pos": "Verb",
+        "word": "beleaguer"
+    },
+    {
+        "date": "2025-10-07",
+        "definition": "(mathematics) An arbitrarily small quantity.",
+        "ipa": "/ɛpˈsaɪ.lən/",
+        "pos": "Noun",
+        "word": "epsilon"
+    },
+    {
+        "date": "2025-10-08",
+        "definition": "(historical) A Nordic poet of the Viking Age.",
+        "ipa": "/skɔːld/",
+        "pos": "Noun",
+        "word": "skald"
+    },
+    {
+        "date": "2025-10-09",
+        "definition": "The name given by the Icelandic Norseman Leifur Eiríksson to the portion of North America in modern-day Newfoundland, Canada when he arrived there circa 1000 AD.",
+        "ipa": "/ˈvɪnlənd/",
+        "pos": "Noun",
+        "word": "Vinland"
+    },
+    {
+        "date": "2025-10-10",
+        "definition": "(botany) Shaped like a turnip; spherical at the top, but with a tapering bottom.",
+        "ipa": "/ˈneɪp.ɪ.fɔːm/",
+        "pos": "Adjective",
+        "word": "napiform"
+    },
+    {
+        "date": "2025-10-11",
+        "definition": "Relating to the use of science and technology in the investigation and establishment of facts or evidence in a court of law.",
+        "ipa": "/fəˈɹɛn.zɪk/",
+        "pos": "Adjective",
+        "word": "forensic"
+    },
+    {
+        "date": "2025-10-12",
+        "definition": "(logic, countable) A statement which is neither a tautology nor a contradiction.",
+        "ipa": "/kənˈtɪnd͡ʒənsi/",
+        "pos": "Noun",
+        "word": "contingency"
+    },
+    {
+        "date": "2025-10-13",
+        "definition": "(architecture) A tall, square, tapered, stone monolith topped with a pyramidal point, frequently used as a monument. [from mid 16th c.]",
+        "ipa": "/ˈɒbəlɪsk/",
+        "pos": "Noun",
+        "word": "obelisk"
+    },
+    {
+        "date": "2025-10-14",
+        "definition": "One of the two points in the ecliptic at which the sun is furthest from the celestial equator. This corresponds to one of two days in the year when the day is either longest or shortest.",
+        "ipa": "/ˈsɒl.stɪs/",
+        "pos": "Noun",
+        "word": "solstice"
+    },
+    {
+        "date": "2025-10-15",
+        "definition": "An informal social gathering, especially one held over coffee for the purpose of conversation.",
+        "ipa": "/klæt͡ʃ/",
+        "pos": "Noun",
+        "word": "klatch"
+    },
+    {
+        "date": "2025-10-16",
+        "definition": "(chronology, astronomy, computing) A specific instant in time, chosen as the point of reference or zero value of a system that involves identifying instants of time.",
+        "ipa": "/ˈiːpɒk/",
+        "pos": "Noun",
+        "word": "epoch"
+    },
+    {
+        "date": "2025-10-17",
+        "definition": "(transitive, obsolete or poetic) To draw or bring forth.",
+        "ipa": "/fɔːθˈdɹɔː/",
+        "pos": "Verb",
+        "word": "forthdraw"
+    },
+    {
+        "date": "2025-10-18",
+        "definition": "A large wave, swell, surge, or undulating mass of something, such as water, smoke, fabric or sound",
+        "ipa": "/ˈbɪləʊ/",
+        "pos": "Noun",
+        "word": "billow"
+    },
+    {
+        "date": "2025-10-19",
+        "definition": "A rough and rapid method of writing by substituting symbols for letters, words, etc.",
+        "ipa": "/ˈʃɔːthænd/",
+        "pos": "Noun",
+        "word": "shorthand"
+    },
+    {
+        "date": "2025-10-20",
+        "definition": "A circumstance in which a choice must be made between three options that seem equally undesirable.",
+        "ipa": "/tɹaɪˈlɛmə/",
+        "pos": "Noun",
+        "word": "trilemma"
+    },
+    {
+        "date": "2025-10-21",
+        "definition": "(rare) Forested; full of trees, dark with shady groves.",
+        "ipa": "/ˈnɛməɹəs/",
+        "pos": "Adjective",
+        "word": "nemorous"
+    },
+    {
+        "date": "2025-10-22",
+        "definition": "Of or relating to the theories of the Russian physiologist, psychologist, and physician Ivan Petrovich Pavlov, especially those related to behavioral conditioning.",
+        "ipa": "/pævˈloʊvi.ən/",
+        "pos": "Adjective",
+        "word": "Pavlovian"
+    },
+    {
+        "date": "2025-10-23",
+        "definition": "A somewhat dark yellowish orange colour.",
+        "ipa": "/ˈəʊkə/",
+        "pos": "Noun",
+        "word": "ochre"
+    },
+    {
+        "date": "2025-10-24",
+        "definition": "(rare) (obsolete) Friendly to strangers.",
+        "ipa": "/ˌzɛnəˈdoʊkiəl/",
+        "pos": "Adjective",
+        "word": "xenodochial"
+    },
+    {
+        "date": "2025-10-25",
+        "definition": "(archaic) The day before yesterday.",
+        "ipa": "/ɛə(ɹ)ˈjɛstə(ɹ)deɪ/",
+        "pos": "Noun",
+        "word": "ereyesterday"
+    },
+    {
+        "date": "2025-10-26",
+        "definition": "(obsolete) Tending to make perfect, or to bring to perfection.",
+        "ipa": "/pə(ɹ)ˈfɛktɪv/",
+        "pos": "Adjective",
+        "word": "perfective"
+    },
+    {
+        "date": "2025-10-27",
+        "definition": "(uncountable) The practice of expressing opinions on something which one knows only superficially or has little real understanding of; also, shallow or superficial knowledge; (countable) an instance of this.",
+        "ipa": "/ˈsaɪ.ə.lɪ.z(ə)m/",
+        "pos": "Noun",
+        "word": "sciolism"
+    },
+    {
+        "date": "2025-10-28",
+        "definition": "An amateur, someone who dabbles in a field out of casual interest rather than as a profession or serious interest.",
+        "ipa": "/dɪlɪˈtænti/",
+        "pos": "Noun",
+        "word": "dilettante"
+    },
+    {
+        "date": "2025-10-29",
+        "definition": "A person who likes, knows about, and appreciates a particular interest or activity (originally bullfighting); a fan or devotee. [from 19th c.]",
+        "ipa": "/əˌfɪʃ.(j)əˈnɑː.dəʊ/",
+        "pos": "Noun",
+        "word": "aficionado"
+    },
+    {
+        "date": "2025-10-30",
+        "definition": "One who has a fondness for teddy bears, usually a collector of them. [from 1960s]",
+        "ipa": "/ˈɑːktəfaɪl/",
+        "pos": "Noun",
+        "word": "arctophile"
+    },
+    {
+        "date": "2025-10-31",
+        "definition": "The nonstandard punctuation mark ⟨‽⟩ (a combination of ⟨?⟩ and ⟨!⟩), which may be used at the end of a sentence to express excitement or disbelief, or to indicate that it is a rhetorical question. [from 1962.]",
+        "ipa": "/ɪnˈtɛ.ɹəʊˌbæŋ/",
+        "pos": "Noun",
+        "word": "interrobang"
+    },
+    {
+        "date": "2025-11-01",
+        "definition": "Wet and limp; unkempt.",
+        "ipa": "/bɪˈdɹæɡl̩d/",
+        "pos": "Adjective",
+        "word": "bedraggled"
+    },
+    {
+        "date": "2025-11-02",
+        "definition": "(rare, chiefly poetic) Color, hue. [from 9th to early 17th c.]",
+        "ipa": "/bliː/",
+        "pos": "Noun",
+        "word": "blee"
+    },
+    {
+        "date": "2025-11-03",
+        "definition": "A considerable lump, scoop, or quantity of something, especially soft food. [from 1810s]",
+        "ipa": "/ˈdɒləp/",
+        "pos": "Noun",
+        "word": "dollop"
+    },
+    {
+        "date": "2025-11-04",
+        "definition": "(science fiction) A machine or robot, usually in the form of a living being, designed to follow a precise sequence of instructions.",
+        "ipa": "/ˈɔː.tɒn/",
+        "pos": "Noun",
+        "word": "auton"
+    },
+    {
+        "date": "2025-11-05",
+        "definition": "(transitive, archaic except poetic) To hear (something) with attention; to have regard to (something).",
+        "ipa": "/ˈhɑːk(ə)n/",
+        "pos": "Verb",
+        "word": "hearken"
+    },
+    {
+        "date": "2025-11-06",
+        "definition": "Of or pertaining to adventurers or rogues.",
+        "ipa": "/pɪkəˈɹɛsk/",
+        "pos": "Adjective",
+        "word": "picaresque"
+    },
+    {
+        "date": "2025-11-07",
+        "definition": "A person who speaks fluently and glibly; a barker.",
+        "ipa": "/ˈspiːlə/",
+        "pos": "Noun",
+        "word": "spieler"
+    },
+    {
+        "date": "2025-11-08",
+        "definition": "Indecision in speech or action.",
+        "ipa": "/væsɪˈleɪʃən/",
+        "pos": "Noun",
+        "word": "vacillation"
+    },
+    {
+        "date": "2025-11-09",
+        "definition": "(intransitive) To criticise for petty or frivolous reasons.",
+        "ipa": "/ˈkæv.əl/",
+        "pos": "Verb",
+        "word": "cavil"
+    },
+    {
+        "date": "2025-11-10",
+        "definition": "A particular pronunciation or custom that is regarded as distinguishing members of a group from non-members, especially when used as a test.",
+        "ipa": "/ˈʃɪbəlɛθ/",
+        "pos": "Noun",
+        "word": "shibboleth"
+    },
+    {
+        "date": "2025-11-11",
+        "definition": "(uncountable, informal) Nothing, zero.",
+        "ipa": "/zɪlt͡ʃ/",
+        "pos": "Noun",
+        "word": "zilch"
+    },
+    {
+        "date": "2025-11-12",
+        "definition": "Using as few words as possible; pithy and concise.",
+        "ipa": "/sɛnˈtɛn.ʃəs/",
+        "pos": "Adjective",
+        "word": "sententious"
+    },
+    {
+        "date": "2025-11-13",
+        "definition": "A concise, terse, laconic, or memorable expression of a general truth or principle.",
+        "ipa": "/ˈæf.ə.ɹɪ.zəm/",
+        "pos": "Noun",
+        "word": "aphorism"
+    },
+    {
+        "date": "2025-11-14",
+        "definition": "Stuck in the past; also, refusing to accept change or failure.",
+        "ipa": "/ˌhævɪʃəmˈɛsk/",
+        "pos": "Adjective",
+        "word": "Havishamesque"
+    },
+    {
+        "date": "2025-11-15",
+        "definition": "(computational linguistics) The set of all words of minimal length that never appear in a particular string.",
+        "ipa": "/æntɪˈdɪkʃ(ə)nəɹi/",
+        "pos": "Noun",
+        "word": "antidictionary"
+    },
+    {
+        "date": "2025-11-16",
+        "definition": "An often round and somewhat flat flavoured candy or sweet.",
+        "ipa": "/ˈpæst(ɪ)l/",
+        "pos": "Noun",
+        "word": "pastille"
+    },
+    {
+        "date": "2025-11-17",
+        "definition": "(signal processing) The inverse of the distance between successive lines in a Fourier transform, measured in seconds.",
+        "ipa": "/ˈkwiːfɹənsi/",
+        "pos": "Noun",
+        "word": "quefrency"
+    },
+    {
+        "date": "2025-11-18",
+        "definition": "(Geordie) To belch, to burp.",
+        "ipa": "/boʊk/",
+        "pos": "Verb",
+        "word": "bowk"
+    },
+    {
+        "date": "2025-11-19",
+        "definition": "(physical chemistry) 10-21 mole, or about 600 molecules. SI symbol: zmol.",
+        "ipa": "/ˈzɛptoʊˌmoʊl/",
+        "pos": "Noun",
+        "word": "zeptomole"
+    },
+    {
+        "date": "2025-11-20",
+        "definition": "Having the colour of emeralds.",
+        "ipa": "/sməˈɹæɡdiːn/",
+        "pos": "Adjective",
+        "word": "smaragdine"
+    },
+    {
+        "date": "2025-11-21",
+        "definition": "(informal) One who is disadvantaged or exploited within a modern technological society, especially through inability to use computer technology.",
+        "ipa": "/ˈtɛknəʊˌpɛzənt/",
+        "pos": "Noun",
+        "word": "technopeasant"
+    },
+    {
+        "date": "2025-11-22",
+        "definition": "Thinkable, conceivable, able to be imagined.",
+        "ipa": "/ˈkɑd͡ʒɪtəbəl/",
+        "pos": "Noun",
+        "word": "cogitable"
+    },
+    {
+        "date": "2025-11-23",
+        "definition": "A pricking of conscience or a feeling of regret, especially one which is slight or fleeting.",
+        "ipa": "/kəmˈpʌŋk.ʃən/",
+        "pos": "Noun",
+        "word": "compunction"
+    },
+    {
+        "date": "2025-11-24",
+        "definition": "(ambitransitive, reflexive, dated) To amuse oneself divertingly or playfully; in particular, to cavort or gambol.",
+        "ipa": "/dɪˈspɔːt/",
+        "pos": "Verb",
+        "word": "disport"
+    },
+    {
+        "date": "2025-11-25",
+        "definition": "(colloquial, idiomatic, derogatory) A clinging to unreasonable or unfounded hopes.",
+        "ipa": "/ˈhəʊ.pi.əm/",
+        "pos": "Noun",
+        "word": "hopium"
+    },
+    {
+        "date": "2025-11-26",
+        "definition": "A work of art relating or dedicated to the night.",
+        "ipa": "/ˈnɒktɜːn/",
+        "pos": "Noun",
+        "word": "nocturne"
+    },
+    {
+        "date": "2025-11-27",
+        "definition": "To urge; to advise earnestly.",
+        "ipa": "/ɛɡˈzɔːt/",
+        "pos": "Verb",
+        "word": "exhort"
+    },
+    {
+        "date": "2025-11-28",
+        "definition": "Showing strong feelings; passionate; forceful or intense.",
+        "ipa": "/ˈviː.ə.mənt/",
+        "pos": "Adjective",
+        "word": "vehement"
+    },
+    {
+        "date": "2025-11-29",
+        "definition": "(chiefly law) The condition, or an act, of doing wrong; the act of committing a tort.",
+        "ipa": "/ˈtɔːtˌfiːzəns/",
+        "pos": "Noun",
+        "word": "tortfeasance"
+    },
+    {
+        "date": "2025-11-30",
+        "definition": "A Japanese aesthetic that derives from imperfection and transience.",
+        "ipa": "/ˈwɑbiˈsɑbi/",
+        "pos": "Noun",
+        "word": "wabi-sabi"
+    },
+    {
+        "date": "2025-12-01",
+        "definition": "A facetious or insulting remark; a jeer, a taunt.",
+        "ipa": "/d͡ʒaɪb/",
+        "pos": "Noun",
+        "word": "jibe"
+    },
+    {
+        "date": "2025-12-02",
+        "definition": "(US, colloquial) Flustered, nervous, overwhelmed.",
+        "ipa": "/fəˈklɛm(p)t/",
+        "pos": "Adjective",
+        "word": "verklempt"
+    },
+    {
+        "date": "2025-12-03",
+        "definition": "(transitive, medicine, obsolete) To relieve the harsh or painful effect of (a drug, a poison, etc.).",
+        "ipa": "/ʃiːð/",
+        "pos": "Verb",
+        "word": "sheathe"
+    },
+    {
+        "date": "2025-12-04",
+        "definition": "Of a person: full of life and vigour, especially with a light and springy step.",
+        "ipa": "/ˈspɹaɪtli/",
+        "pos": "Adjective",
+        "word": "sprightly"
+    },
+    {
+        "date": "2025-12-05",
+        "definition": "Incapable of being cleared of clouds.",
+        "ipa": "/ˌɪnɪˈnjuːbɪləb(ə)l/",
+        "pos": "Adjective",
+        "word": "inenubilable"
+    },
+    {
+        "date": "2025-12-06",
+        "definition": "A word, phrase, or sentence that has the property of forming another word, phrase, or sentence when its letters are reversed. A semordnilap differs from a palindrome in that the word or phrase resulting from the reversal is different from the original word or phrase.",
+        "ipa": "/səˈmɔːdnɪlæp/",
+        "pos": "Noun",
+        "word": "semordnilap"
+    },
+    {
+        "date": "2025-12-07",
+        "definition": "(biblical, mythology) A vast sea monster of tremendous strength, either imaginary or real, described as the most dangerous and powerful creature in the ocean.",
+        "ipa": "/lɪˈvaɪəθn̩/",
+        "pos": "Noun",
+        "word": "leviathan"
+    },
+    {
+        "date": "2025-12-08",
+        "definition": "(transitive) To declare openly and boldly, as something believed to be right; to own, acknowledge or confess frankly.",
+        "ipa": "/əˈvaʊ/",
+        "pos": "Verb",
+        "word": "avow"
+    },
+    {
+        "date": "2025-12-09",
+        "definition": "(obsolete except dialectal) A bush.",
+        "ipa": "/bɒsk/",
+        "pos": "Noun",
+        "word": "bosk"
+    },
+    {
+        "date": "2025-12-10",
+        "definition": "(astronomy) The point in the elliptical orbit of a comet, planet, etc., where it is nearest to the Sun.",
+        "ipa": "/ˌpɛɹ.ɪˈhiː.lɪ.ən/",
+        "pos": "Noun",
+        "word": "perihelion"
+    },
+    {
+        "date": "2025-12-11",
+        "definition": "(figuratively, informal) A person regarded as unworthy of respect or useless; also, something of very little value; a trifle.",
+        "ipa": "/ˌpɪkəˈjuːn/",
+        "pos": "Noun",
+        "word": "picayune"
+    },
+    {
+        "date": "2025-12-12",
+        "definition": "In medieval music, a mnemonic for the Latin words saeculōrum and āmēn (from “ […] in saecula saeculōrum. Āmēn.” from the Gloria Patri doxology), used in liturgical works to indicate how the words should be sung with various cadences.",
+        "ipa": "/juːˈuː.iː/",
+        "pos": "Noun",
+        "word": "euouae"
+    },
+    {
+        "date": "2025-12-13",
+        "definition": "A useless product which is advertised as being needed by everybody, but which in fact no one needs.",
+        "ipa": "/ˈθniːd/",
+        "pos": "Noun",
+        "word": "thneed"
+    },
+    {
+        "date": "2025-12-14",
+        "definition": "To make (something) less dense, or thinner; also, to lower the viscosity of (something).",
+        "ipa": "/ɪkˈstɛnjʊeɪt/",
+        "pos": "Verb",
+        "word": "extenuate"
+    },
+    {
+        "date": "2025-12-15",
+        "definition": "(transitive) To pull (especially an animal) by the ears; to drag about.",
+        "ipa": "/səʊl/",
+        "pos": "Verb",
+        "word": "sowl"
+    },
+    {
+        "date": "2025-12-16",
+        "definition": "(dated) Of or relating to sugar; sugary.",
+        "ipa": "/ˈsækəɹaɪn/",
+        "pos": "Adjective",
+        "word": "saccharine"
+    },
+    {
+        "date": "2025-12-17",
+        "definition": "The place on the diametrically opposite side of the earth from a given point.",
+        "ipa": "/ænˈtɪp.əˌdiz/",
+        "pos": "Noun",
+        "word": "antipodes"
+    },
+    {
+        "date": "2025-12-18",
+        "definition": "(comparable) Cheerful and good-humoured; jolly, merry.",
+        "ipa": "/ˈd͡ʒəʊ.vɪ.əl/",
+        "pos": "Adjective",
+        "word": "jovial"
+    },
+    {
+        "date": "2025-12-19",
+        "definition": "(figurative) To cover (something) with a thin coating or film; to coat.",
+        "ipa": "/ɹaɪm/",
+        "pos": "Verb",
+        "word": "rime"
+    },
+    {
+        "date": "2025-12-20",
+        "definition": "To speak passionately; to preach for or against something. [from 1600]",
+        "ipa": "/ɔːˈɹeɪt/",
+        "pos": "Verb",
+        "word": "orate"
+    },
+    {
+        "date": "2025-12-21",
+        "definition": "(botany) Of a fern: in which the first veins in a frond segment are produced towards the apex of the frond.",
+        "ipa": "/əˈnad.ɹə.məs/",
+        "pos": "Adjective",
+        "word": "anadromous"
+    },
+    {
+        "date": "2025-12-22",
+        "definition": "Synonym of eternity (“existence without end”).",
+        "ipa": "/ˌiːvɪˈtɜːnɪti/",
+        "pos": "Noun",
+        "word": "aeviternity"
+    },
+    {
+        "date": "2025-12-23",
+        "definition": "(archaic, poetic or humorous) Called (by a certain name), named.",
+        "ipa": "/ɪˈklɛpt/",
+        "pos": "Adjective",
+        "word": "yclept"
+    },
+    {
+        "date": "2025-12-24",
+        "definition": "(chemistry) To heat (a substance) in a container so as to convert it into a gas which then condenses in solid form on cooler parts of the container.",
+        "ipa": "/ˈsʌblɪmeɪt/",
+        "pos": "Verb",
+        "word": "sublimate"
+    },
+    {
+        "date": "2025-12-25",
+        "definition": "(formal, obsolete) Tending to attract; enticing.",
+        "ipa": "illecebrous",
+        "pos": "Adjective",
+        "word": "illecebrous"
+    },
+    {
+        "date": "2025-12-26",
+        "definition": "(meteorology) Of, relating to, or occurring in the stratosphere (“the region of the uppermost atmosphere”).",
+        "ipa": "/ˌstɹætəˈsfɛɹɪk/",
+        "pos": "Adjective",
+        "word": "stratospheric"
+    },
+    {
+        "date": "2025-12-27",
+        "definition": "(transitive) To find and specify the location of (someone or something); to locate.",
+        "ipa": "/ˈjuːbɪkeɪt/",
+        "pos": "Verb",
+        "word": "ubicate"
+    },
+    {
+        "date": "2025-12-28",
+        "definition": "A slightly hollow, percussive sound.",
+        "ipa": "/kluːp/",
+        "pos": "Noun",
+        "word": "cloop"
+    },
+    {
+        "date": "2025-12-29",
+        "definition": "Quick to become bad-tempered or cross, especially due to insignificant matters; irritable, pettish, petulant. [from 16th c.]",
+        "ipa": "/ˈpiːvɪʃ/",
+        "pos": "Adjective",
+        "word": "peevish"
+    },
+    {
+        "date": "2025-12-30",
+        "definition": "(nonstandard, rare, poetic) Horizon.",
+        "ipa": "/ˈskaɪˌsɪl/",
+        "pos": "Noun",
+        "word": "skysill"
+    },
+    {
+        "date": "2025-12-31",
+        "definition": "An unforeseen, inopportune, or embarrassing event.",
+        "ipa": "/ˈkɒn.tɹə.tɑ̃ŋ/",
+        "pos": "Noun",
+        "word": "contretemps"
+    },
+    {
+        "date": "2026-01-01",
+        "definition": "(printing) A book, single sheet, or image that was printed before the year 1501 in Europe.",
+        "ipa": "/ˌɪn.kjʊˈnæb.jʊ.ləm/",
+        "pos": "Noun",
+        "word": "incunabulum"
+    },
+    {
+        "date": "2026-01-02",
+        "definition": "Created by humans; artificial.",
+        "ipa": "/fækˈtɪʃəs/",
+        "pos": "Adjective",
+        "word": "factitious"
+    },
+    {
+        "date": "2026-01-03",
+        "definition": "(informal, rare) Reminiscent of or containing bees.",
+        "ipa": "/ˈbiːi/",
+        "pos": "Adjective",
+        "word": "beey"
+    },
+    {
+        "date": "2026-01-04",
+        "definition": "(uncountable, obsolete) A part of the entrails of a hunted animal, given to the hounds as a reward.",
+        "ipa": "/ˈkwɒɹ.i/",
+        "pos": "Noun",
+        "word": "quarry"
+    },
+    {
+        "date": "2026-01-05",
+        "definition": "(uncountable) Loose stony debris on a slope. [from early 18th c.]",
+        "ipa": "/skɹiː/",
+        "pos": "Noun",
+        "word": "scree"
+    },
+    {
+        "date": "2026-01-06",
+        "definition": "(archaic) Something frivolous or trivial; a gewgaw, a trinket.",
+        "ipa": "/ˈfɪzɡɪɡ/",
+        "pos": "Noun",
+        "word": "fizgig"
+    },
+    {
+        "date": "2026-01-07",
+        "definition": "(geography, geodesy) The shape, extending through landmasses (continents, etc.), that the surface of the oceans of the Earth would take under the influence of the Earth's gravity and rotation alone, disregarding other factors such as winds and tides; that is, a surface of constant gravitational potential at zero elevation.",
+        "ipa": "/ˈdʒiːɔɪd/",
+        "pos": "Noun",
+        "word": "geoid"
+    },
+    {
+        "date": "2026-01-08",
+        "definition": "A form of government where a dead person is recognised as its head; usually a deceased former leader.",
+        "ipa": "/nɛˈkɹɒkɹəsi/",
+        "pos": "Noun",
+        "word": "necrocracy"
+    },
+    {
+        "date": "2026-01-09",
+        "definition": "(obsolete, transitive) To be unseemly or unsuitable for.",
+        "ipa": "/ʌnbɪˈsiːm/",
+        "pos": "Verb",
+        "word": "unbeseem"
+    },
+    {
+        "date": "2026-01-10",
+        "definition": "(transitive) To illegally take possession of (something, especially items of low value); to pilfer, to steal.",
+        "ipa": "/fɪlt͡ʃ/",
+        "pos": "Verb",
+        "word": "filch"
+    },
+    {
+        "date": "2026-01-11",
+        "definition": "(UK, Ireland, Commonwealth) Chaotic, disorganised or mismanaged. [from 1952]",
+        "ipa": "/ʃamˈbɒlɪk/",
+        "pos": "Adjective",
+        "word": "shambolic"
+    },
+    {
+        "date": "2026-01-12",
+        "definition": "(archaic, rare) The circumference of something circular; also, an arc; a circuit, an orbit.",
+        "ipa": "/ˈæmbɪt/",
+        "pos": "Noun",
+        "word": "ambit"
+    },
+    {
+        "date": "2026-01-13",
+        "definition": "(obsolete, rare, formal) The act of lying down.",
+        "ipa": "/ˌdiːkjuːˈbeɪʃən/",
+        "pos": "Noun",
+        "word": "decubation"
+    },
+    {
+        "date": "2026-01-14",
+        "definition": "(intransitive) To travel from place to place, or from one country to another, especially on foot; hence, to sojourn in foreign countries.",
+        "ipa": "/ˈpɛ.ɹɪ.ɡɹəˌneɪt/",
+        "pos": "Verb",
+        "word": "peregrinate"
+    },
+    {
+        "date": "2026-01-15",
+        "definition": "(anatomy) The shallow vertical groove running from the nasal septum to the center of the upper lip.",
+        "ipa": "/ˈfɪl.tɹəm/",
+        "pos": "Noun",
+        "word": "philtrum"
+    },
+    {
+        "date": "2026-01-16",
+        "definition": "A person who collects match-related items, like matchbox labels, matchboxes, matchbooks, or matchbook covers.",
+        "ipa": "/fɪˈluːmənɪst/",
+        "pos": "Noun",
+        "word": "phillumenist"
+    },
+    {
+        "date": "2026-01-17",
+        "definition": "(uncountable) The study of a supersensual realm or of phenomena which transcend the physical world.",
+        "ipa": "/mɛtəˈfɪzɪks/",
+        "pos": "Noun",
+        "word": "metaphysics"
+    },
+    {
+        "date": "2026-01-18",
+        "definition": "(mathematics, informal) Divisible by three. [from 2000s]",
+        "ipa": "/ˈθɹiːvən/",
+        "pos": "Adjective",
+        "word": "threeven"
+    },
+    {
+        "date": "2026-01-19",
+        "definition": "(transitive, rare) To hold or believe (something) beforehand; to assume; to anticipate, to predict.",
+        "ipa": "/fɔːˈhəʊld/",
+        "pos": "Verb",
+        "word": "forehold"
+    },
+    {
+        "date": "2026-01-20",
+        "definition": "A bardic circle or competition: a gathering or contest at which stories, poems, and/or songs are recited.",
+        "ipa": "/ˈbɑɹ.dɪk/",
+        "pos": "Noun",
+        "word": "bardic"
+    },
+    {
+        "date": "2026-01-21",
+        "definition": "(transitive) To diversify by placing or inserting other things among something.",
+        "ipa": "/ˌɪntəˈspɜːs/",
+        "pos": "Verb",
+        "word": "intersperse"
+    },
+    {
+        "date": "2026-01-22",
+        "definition": "Lasting three days.",
+        "ipa": "/ˈtɹɪdjʊən/",
+        "pos": "Adjective",
+        "word": "triduan"
+    },
+    {
+        "date": "2026-01-23",
+        "definition": "(countable) A nap, especially an afternoon one taken during the hottest part of the day in some cultures.",
+        "ipa": "/siˈɛstə/",
+        "pos": "Noun",
+        "word": "siesta"
+    },
+    {
+        "date": "2026-01-24",
+        "definition": "(astronomy) Moving in a forward direction, especially with respect to other bodies in the same system.",
+        "ipa": "/ˈpɹəʊɡɹeɪd/",
+        "pos": "Adjective",
+        "word": "prograde"
+    },
+    {
+        "date": "2026-01-25",
+        "definition": "(zoology) The section of an animal's skin that it cannot reach in order to scratch itself, usually the space between the shoulder blades.",
+        "ipa": "/ækˈniːstɪs/",
+        "pos": "Noun",
+        "word": "acnestis"
+    },
+    {
+        "date": "2026-01-26",
+        "definition": "Clinging to an object or surface; adhesive.",
+        "ipa": "/təˈneɪʃəs/",
+        "pos": "Adjective",
+        "word": "tenacious"
+    },
+    {
+        "date": "2026-01-27",
+        "definition": "Listening, paying attention. [from mid 16th c.]",
+        "ipa": "/ˈɔː.dɪ.ənt/",
+        "pos": "Adjective",
+        "word": "audient"
+    },
+    {
+        "date": "2026-01-28",
+        "definition": "(countable, grammar) (An instance of) a form of a word which conveys this mood.",
+        "ipa": "/ˈmɪɹətɪv/",
+        "pos": "Noun",
+        "word": "mirative"
+    },
+    {
+        "date": "2026-01-29",
+        "definition": "(uncountable, hunting, often attributively) A form of hunting in which game is forced into the open by the beating of sticks on bushes, etc. [from early 19th c.]",
+        "ipa": "/bəˈt(j)uː/",
+        "pos": "Noun",
+        "word": "battue"
+    },
+    {
+        "date": "2026-01-30",
+        "definition": "The quality of being meagre or scanty.",
+        "ipa": "/ɛɡzɪˈɡjuːɪti/",
+        "pos": "Noun",
+        "word": "exiguity"
+    },
+    {
+        "date": "2026-01-31",
+        "definition": "(rare) Of or pertaining to balconies.",
+        "ipa": "/ˈbælkənɪk/",
+        "pos": "Adjective",
+        "word": "balconic"
+    },
+    {
+        "date": "2026-02-01",
+        "definition": "(agriculture) A sustainable food production system that combines traditional aquaculture with hydroponics, with effluent from the water in which fish are reared being used as nutrition for plants.",
+        "ipa": "/(ˌ)ækwəˈpɒnɪks/",
+        "pos": "Noun",
+        "word": "aquaponics"
+    },
+    {
+        "date": "2026-02-02",
+        "definition": "(chiefly British, Ireland, Australia, New Zealand, informal) Crazy, insane, mad.",
+        "ipa": "/dɑːft/",
+        "pos": "Adjective",
+        "word": "daft"
+    },
+    {
+        "date": "2026-02-03",
+        "definition": "A fee charged by a restaurant to serve wine that a diner has provided.",
+        "ipa": "/ˈkɔːkɪdʒ/",
+        "pos": "Noun",
+        "word": "corkage"
+    },
+    {
+        "date": "2026-02-04",
+        "definition": "Silly, especially at an inappropriate time or in an inappropriate manner; lacking a good reason for being, or for doing what one does; due to or moved by a whim or caprice.",
+        "ipa": "/ˈfɹɪv.ə.ləs/",
+        "pos": "Adjective",
+        "word": "frivolous"
+    },
+    {
+        "date": "2026-02-05",
+        "definition": "Rebellious, opposing authority.",
+        "ipa": "/ɪnˈsəːdʒ(ə)nt/",
+        "pos": "Adjective",
+        "word": "insurgent"
+    },
+    {
+        "date": "2026-02-06",
+        "definition": "The quality of being oblique in direction, deviating from the horizontal or vertical; or the angle created by such a deviation. [from 15th c.]",
+        "ipa": "/əˈblɪkwɪti/",
+        "pos": "Noun",
+        "word": "obliquity"
+    },
+    {
+        "date": "2026-02-07",
+        "definition": "(astrology) Of or noting the aspect or position of any two celestial bodies separated by 135°.",
+        "ipa": "/ˌsɛskwɪˈkwɒdɹət/",
+        "pos": "Adjective",
+        "word": "sesquiquadrate"
+    },
+    {
+        "date": "2026-02-08",
+        "definition": "Of, pertaining to, or used by a calendar system.",
+        "ipa": "/kəˈlɛndɹɪkl̩/",
+        "pos": "Adjective",
+        "word": "calendrical"
+    },
+    {
+        "date": "2026-02-09",
+        "definition": "Obscene or scurrilous.",
+        "ipa": "/ˈfɛsənʌɪn/",
+        "pos": "Adjective",
+        "word": "fescennine"
+    },
+    {
+        "date": "2026-02-10",
+        "definition": "(anatomy, zoology) Of, relating to, existing on, or affecting the exterior skin, especially the cutis.",
+        "ipa": "/kjuːˈteɪniəs/",
+        "pos": "Adjective",
+        "word": "cutaneous"
+    },
+    {
+        "date": "2026-02-11",
+        "definition": "Difficult or impossible to comprehend, fathom or interpret.",
+        "ipa": "/ˌɪnˈskɹuːtəbl̩/",
+        "pos": "Adjective",
+        "word": "inscrutable"
+    },
+    {
+        "date": "2026-02-12",
+        "definition": "(rare) Acorn-eating.",
+        "ipa": "/bæləˈniːfəɡəs/",
+        "pos": "Adjective",
+        "word": "balanephagous"
+    },
+    {
+        "date": "2026-02-13",
+        "definition": "(optics, computer graphics) The envelope of reflected or refracted rays of light for a given surface or object.",
+        "ipa": "/ˈkɔːstɪk/",
+        "pos": "Noun",
+        "word": "caustic"
+    },
+    {
+        "date": "2026-02-14",
+        "definition": "A wasting of body tissues, of either genetic origin or due to inadequate or defective nutrition.",
+        "ipa": "/ˈdɪstɹəfi/",
+        "pos": "Noun",
+        "word": "dystrophy"
+    },
+    {
+        "date": "2026-02-15",
+        "definition": "The act of exclaiming; violent outcry; vehement utterance of the voice.",
+        "ipa": "/vəʊˌsɪf.əˈɹeɪ.ʃən/",
+        "pos": "Noun",
+        "word": "vociferation"
+    },
+    {
+        "date": "2026-02-16",
+        "definition": "(archaic, literary) Rudely contemptuous; showing contumely; exhibiting an insolent or disdainful attitude.",
+        "ipa": "/ˌkɒn.tjʊˈmiː.li.əs/",
+        "pos": "Adjective",
+        "word": "contumelious"
+    },
+    {
+        "date": "2026-02-17",
+        "definition": "(now rare) Strange, unusual, rare; unfamiliar; marvellous, wondrous.",
+        "ipa": "/sɛlˈkuːθ/",
+        "pos": "Adjective",
+        "word": "selcouth"
+    },
+    {
+        "date": "2026-02-18",
+        "definition": "A quality of courage and endurance.",
+        "ipa": "/ˈmɛtəl/",
+        "pos": "Noun",
+        "word": "mettle"
+    },
+    {
+        "date": "2026-02-19",
+        "definition": "Urgent; pressing; needing immediate action.",
+        "ipa": "/ˈɛk.sɪ.d͡ʒənt/",
+        "pos": "Adjective",
+        "word": "exigent"
+    },
+    {
+        "date": "2026-02-20",
+        "definition": "(grammar) Speech or writing in which clauses or phrases are placed together without being separated by conjunctions, for example \"I came; I saw; I conquered\".",
+        "ipa": "/paɹəˈtaksɪs/",
+        "pos": "Noun",
+        "word": "parataxis"
+    },
+    {
+        "date": "2026-02-21",
+        "definition": "(British, India) A (light) midday meal or snack; luncheon.",
+        "ipa": "/ˈtɪf.ɪn/",
+        "pos": "Noun",
+        "word": "tiffin"
+    },
+    {
+        "date": "2026-02-22",
+        "definition": "A series of referendums on the same issue held in an attempt to achieve an unpopular result.",
+        "ipa": "/ˌnɛv.əˈɹɛn.dəm/",
+        "pos": "Noun",
+        "word": "neverendum"
+    },
+    {
+        "date": "2026-02-23",
+        "definition": "(rare, archaic) Immodest; shameless.",
+        "ipa": "/ɪnˈvɛɹɪkʌnd/",
+        "pos": "Adjective",
+        "word": "inverecund"
+    },
+    {
+        "date": "2026-02-24",
+        "definition": "(geology) A type of land formation, usually with many caves formed through the dissolving of limestone by underground drainage.",
+        "ipa": "/kɑːst/",
+        "pos": "Noun",
+        "word": "karst"
+    },
+    {
+        "date": "2026-02-25",
+        "definition": "A word that is originally not an acronym but is turned into one by devising a full form for it, sometimes as a folk etymology, sometimes as a contrived acronym to name a new organization, proposal, or other entity.",
+        "ipa": "/ˈbæk.ɹəˌnɪm/",
+        "pos": "Noun",
+        "word": "backronym"
+    },
+    {
+        "date": "2026-02-26",
+        "definition": "An earnest affirmation; a declaration of support.",
+        "ipa": "/əˌsɛv.əˈɹeɪ.ʃən/",
+        "pos": "Noun",
+        "word": "asseveration"
+    },
+    {
+        "date": "2026-02-27",
+        "definition": "A symbol or token of personal power, status, or office, or of an official body of government or jurisdiction.",
+        "ipa": "/ɪnˈsɪɡ.ni.ə/",
+        "pos": "Noun",
+        "word": "insignia"
+    },
+    {
+        "date": "2026-02-28",
+        "definition": "(transitive, astronomy) To cover or hide from view.",
+        "ipa": "/ˈɒk.ʌlt/",
+        "pos": "Verb",
+        "word": "occult"
+    },
+    {
+        "date": "2026-03-01",
+        "definition": "A grayish-pink color, like that of the damask rose.",
+        "ipa": "/ˈdæm.əsk/",
+        "pos": "Noun",
+        "word": "damask"
+    },
+    {
+        "date": "2026-03-02",
+        "definition": "One who studies and/or collects coins and/or currencies.",
+        "ipa": "/njuːˈmɪzmətɪst/",
+        "pos": "Noun",
+        "word": "numismatist"
+    },
+    {
+        "date": "2026-03-03",
+        "definition": "Obsolete, antiquated.",
+        "ipa": "/ˌsupɚˈænjuˌeɪtɪd/",
+        "pos": "Adjective",
+        "word": "superannuated"
+    },
+    {
+        "date": "2026-03-04",
+        "definition": "Occurring before a meal, especially dinner.",
+        "ipa": "/pɹiːˈpɹæn.dɪ.əl/",
+        "pos": "Adjective",
+        "word": "preprandial"
+    },
+    {
+        "date": "2026-03-05",
+        "definition": "(electronics) A small dot registered on electronic equipment, such as a radar or oscilloscope screen.",
+        "ipa": "/blɪp/",
+        "pos": "Noun",
+        "word": "blip"
+    },
+    {
+        "date": "2026-03-06",
+        "definition": "(philosophy) A seemingly self-evident or necessary truth which is based on assumption; a principle or proposition which cannot actually be proved or disproved.",
+        "ipa": "/ˈak.sɪ.əm/",
+        "pos": "Noun",
+        "word": "axiom"
+    },
+    {
+        "date": "2026-03-07",
+        "definition": "(onomastics) The name of a river, lake, sea or any other body of water.",
+        "ipa": "/ˈhʌɪdɹənɪm/",
+        "pos": "Noun",
+        "word": "hydronym"
+    },
+    {
+        "date": "2026-03-08",
+        "definition": "(Buddhism) A type of god that prevents accomplishment or success.",
+        "ipa": "/ˈmɑːɹə/",
+        "pos": "Noun",
+        "word": "mara"
+    },
+    {
+        "date": "2026-03-09",
+        "definition": "(mathematics) Related by an isomorphism; having a structure-preserving one-to-one correspondence.",
+        "ipa": "/ˌaɪ.səˈmɔː.fɪk/",
+        "pos": "Adjective",
+        "word": "isomorphic"
+    },
+    {
+        "date": "2026-03-10",
+        "definition": "(intransitive) To disappear by becoming immaterial.",
+        "ipa": "/ˌdiː.məˈtɪə.ɹɪ.ə.laɪz/",
+        "pos": "Verb",
+        "word": "dematerialize"
+    },
+    {
+        "date": "2026-03-11",
+        "definition": "Having a lot of space inside; roomy.",
+        "ipa": "/kəˈpeɪʃəs/",
+        "pos": "Adjective",
+        "word": "capacious"
+    },
+    {
+        "date": "2026-03-12",
+        "definition": "Relating to the Ouroboros, a snake eating its own tail.",
+        "ipa": "/ɔɹəˈbɔɹɪk/",
+        "pos": "Adjective",
+        "word": "ouroboric"
+    },
+    {
+        "date": "2026-03-13",
+        "definition": "(biology) The sense of heat and cold: the ability of humans, and many other organisms, to perceive temperature.",
+        "ipa": "/ˌθɜː(ɹ)məʊˈsɛpʃən/",
+        "pos": "Noun",
+        "word": "thermoception"
+    },
+    {
+        "date": "2026-03-14",
+        "definition": "(obsolete) A person who exhibits such fervour or tireless devotion.",
+        "ipa": "/ziːl/",
+        "pos": "Noun",
+        "word": "zeal"
+    },
+    {
+        "date": "2026-03-15",
+        "definition": "(transitive) To deny (oneself something); to renounce or give up (a right, a power, a claim, a privilege, a convenience). [First attested in the early 17th century.]",
+        "ipa": "/ˈæb.nɪ.ɡeɪt/",
+        "pos": "Verb",
+        "word": "abnegate"
+    },
+    {
+        "date": "2026-03-16",
+        "definition": "A high point of land extending into a body of water, headland; cliff.",
+        "ipa": "/ˈpɹɒm.ən.tɹi/",
+        "pos": "Noun",
+        "word": "promontory"
+    },
+    {
+        "date": "2026-03-17",
+        "definition": "Exhibiting advanced skills and aptitudes at an abnormally early age.",
+        "ipa": "/pɹəˈkəʊʃəs/",
+        "pos": "Adjective",
+        "word": "precocious"
+    },
+    {
+        "date": "2026-03-18",
+        "definition": "(countable) A general devotion to the pursuit of pleasure.",
+        "ipa": "/ˈhɛdənɪzəm/",
+        "pos": "Noun",
+        "word": "hedonism"
+    },
+    {
+        "date": "2026-03-19",
+        "definition": "A pause or interruption in a poem, music, building, or other work of art.",
+        "ipa": "/sɪˈzjʊəɹə/",
+        "pos": "Noun",
+        "word": "caesura"
+    },
+    {
+        "date": "2026-03-20",
+        "definition": "Looking exhausted, worried, or poor in condition",
+        "ipa": "/ˈhæɡ.əd/",
+        "pos": "Adjective",
+        "word": "haggard"
+    },
+    {
+        "date": "2026-03-21",
+        "definition": "A condition of favoring or liking; a tendency towards; proclivity; predisposition.",
+        "ipa": "/ˌpɹiː.dəˈlɛk.ʃn̩/",
+        "pos": "Noun",
+        "word": "predilection"
+    },
+    {
+        "date": "2026-03-22",
+        "definition": "(countable, figurative) A result of a creative effort.",
+        "ipa": "/ˈpɹɒd͡ʒəni/",
+        "pos": "Noun",
+        "word": "progeny"
+    },
+    {
+        "date": "2026-03-23",
+        "definition": "(slang) A person given to following trends.",
+        "ipa": "/ˈtɹɛndaɪt/",
+        "pos": "Noun",
+        "word": "trendite"
+    },
+    {
+        "date": "2026-03-24",
+        "definition": "A person who explores dream worlds, usually associated with lucid dreaming.",
+        "ipa": "/əʊˈnaɪɹənɔːt/",
+        "pos": "Noun",
+        "word": "oneironaut"
+    },
+    {
+        "date": "2026-03-25",
+        "definition": "A conversation or dialogue. [from 15th c.]",
+        "ipa": "/ˈkɒ.lə.kwi/",
+        "pos": "Noun",
+        "word": "colloquy"
+    },
+    {
+        "date": "2026-03-26",
+        "definition": "Well-educated, literary people; intellectuals who are interested in literature.",
+        "ipa": "/ˌlɪt.əˈɹɑː.tiː/",
+        "pos": "Noun",
+        "word": "literati"
+    },
+    {
+        "date": "2026-03-27",
+        "definition": "Something, usually abnormal, which grows out of something else.",
+        "ipa": "/ɛkˈskɹɛsəns/",
+        "pos": "Noun",
+        "word": "excrescence"
+    },
+    {
+        "date": "2026-03-28",
+        "definition": "(psychiatry) Absence of willpower or decisiveness, especially as a symptom of mental illness. [from 19th c.]",
+        "ipa": "/əˈb(j)uː.lɪə/",
+        "pos": "Noun",
+        "word": "abulia"
+    },
+    {
+        "date": "2026-03-29",
+        "definition": "(figurative or literary) The emotional imprint of a trauma such as grief, loss or degradation.",
+        "ipa": "/ˈɛskɑː/",
+        "pos": "Noun",
+        "word": "eschar"
+    },
+    {
+        "date": "2026-03-30",
+        "definition": "Showy but of poor quality; worthless.",
+        "ipa": "/ˈd͡ʒɪmkɹæk/",
+        "pos": "Adjective",
+        "word": "gimcrack"
+    },
+    {
+        "date": "2026-03-31",
+        "definition": "(humorous, rare) A person who reads in bed.",
+        "ipa": "/ˌlaɪbɹəʊˌkjuːbɪˈkjʊləɹɪst/",
+        "pos": "Noun",
+        "word": "librocubicularist"
+    },
+    {
+        "date": "2026-04-01",
+        "definition": "(epigraphy) Text written such that its direction alternates on each line, resulting in a continuous stream of characters spanning multiple lines; frequently also involving the corresponding alternation of letter directionality using mirrored letters, indicating the direction of the text at any given point.",
+        "ipa": "/ˌbuːstɹəˈfiːdən/",
+        "pos": "Noun",
+        "word": "boustrophedon"
+    },
+    {
+        "date": "2026-04-02",
+        "definition": "(psychology) Cognition, the functioning of intellect.",
+        "ipa": "/nəʊˈiːsɪs/",
+        "pos": "Noun",
+        "word": "noesis"
+    },
+    {
+        "date": "2026-04-03",
+        "definition": "(rhetoric) The repetition of a phrase at the beginning of phrases, sentences, or verses, used for emphasis.",
+        "ipa": "/ˌænəˈfɔɹə/",
+        "pos": "Noun",
+        "word": "anaphora"
+    },
+    {
+        "date": "2026-04-04",
+        "definition": "(figurative) Enormous, huge, far larger than is customary for such a thing.",
+        "ipa": "/ˌbɹɒbdɪŋˈnaɡɪən/",
+        "pos": "Adjective",
+        "word": "Brobdingnagian"
+    },
+    {
+        "date": "2026-04-05",
+        "definition": "(formal) A beginning.",
+        "ipa": "/ɛɡˈzɔːdɪəm/",
+        "pos": "Noun",
+        "word": "exordium"
+    },
+    {
+        "date": "2026-04-06",
+        "definition": "(intransitive) To give off light; to reflect in flashes; to sparkle.",
+        "ipa": "/ˈkɒɹəskeɪt/",
+        "pos": "Verb",
+        "word": "coruscate"
+    },
+    {
+        "date": "2026-04-07",
+        "definition": "(orthography) diacritic closely resembling an acute accent",
+        "ipa": "/ˈkrɛs.ka/",
+        "pos": "Noun",
+        "word": "kreska"
+    },
+    {
+        "date": "2026-04-08",
+        "definition": "(entomology) The study of ants.",
+        "ipa": "/ˌmɜː(ɹ)mɪˈkɒləd͡ʒi/",
+        "pos": "Noun",
+        "word": "myrmecology"
+    },
+    {
+        "date": "2026-04-09",
+        "definition": "A clockwork model of any given solar system.",
+        "ipa": "/ˈɒɹ.ə.ɹi/",
+        "pos": "Noun",
+        "word": "orrery"
+    },
+    {
+        "date": "2026-04-10",
+        "definition": "(biology, systematics) The study of the evolutionary history and relationships among or within groups of organisms, through computational methods that focus on observed heritable traits.",
+        "ipa": "/ˌfaɪləd͡ʒəˈnɛtɪks/",
+        "pos": "Noun",
+        "word": "phylogenetics"
+    },
+    {
+        "date": "2026-04-11",
+        "definition": "(Egyptology) After the era of the pharaohs of Ancient Egypt.",
+        "ipa": "/ˌpəʊstˌfɛəɹeɪˈɒnɪk/",
+        "pos": "Adjective",
+        "word": "postpharaonic"
+    },
+    {
+        "date": "2026-04-12",
+        "definition": "Warlike in nature; aggressive; hostile.",
+        "ipa": "/ˈbɛlɪkoʊs/",
+        "pos": "Adjective",
+        "word": "bellicose"
+    },
+    {
+        "date": "2026-04-13",
+        "definition": "One employed to take dictation, or copy manuscripts.",
+        "ipa": "/əˌmænjuˈɛnsɪs/",
+        "pos": "Noun",
+        "word": "amanuensis"
+    },
+    {
+        "date": "2026-04-14",
+        "definition": "(philosophy) The state of total inaction caused by holding global skepticism.",
+        "ipa": "/əˈpɹæksɪə/",
+        "pos": "Noun",
+        "word": "apraxia"
+    },
+    {
+        "date": "2026-04-15",
+        "definition": "(humorous) A supposed language in which groundhogs and humans can communicate with each other.",
+        "ipa": "/ˌɡɹaʊndhɒɡˈiːz/",
+        "pos": "Noun",
+        "word": "groundhogese"
+    },
+    {
+        "date": "2026-04-16",
+        "definition": "(chiefly uncountable, literary) Anguish, grief, misery, or sorrow.",
+        "ipa": "/ˈdɒlə/",
+        "pos": "Noun",
+        "word": "dolour"
+    },
+    {
+        "date": "2026-04-17",
+        "definition": "Lasting or remaining active throughout the year, for multiple years, or all the time.",
+        "ipa": "/pəˈɹɛn.ɪ.əl/",
+        "pos": "Adjective",
+        "word": "perennial"
+    },
+    {
+        "date": "2026-04-18",
+        "definition": "(neuroscience) A rare condition in which a person possesses a superior autobiographical memory and is able to recall the vast majority of personal events and experiences in life.",
+        "ipa": "/ˌhaɪ.pə.θaɪˈmiː.zi.ə/",
+        "pos": "Noun",
+        "word": "hyperthymesia"
+    },
+    {
+        "date": "2026-04-19",
+        "definition": "(countable, uncountable) The office, position, rank, or title of a voivode (“a local ruler or official in various parts of central and eastern Europe; an administrative chief in modern Poland”)",
+        "ipa": "/ˈvɔɪˌvəʊdˌʃɪp/",
+        "pos": "Noun",
+        "word": "voivodeship"
+    },
+    {
+        "date": "2026-04-20",
+        "definition": "(informal, chiefly Canada, US, usually transitive) To move at full speed, especially in retreat.",
+        "ipa": "/ˈhaɪ.teɪl/",
+        "pos": "Verb",
+        "word": "hightail"
+    },
+    {
+        "date": "2026-04-21",
+        "definition": "A crescent moon, or an object shaped like it. [from 17th c.]",
+        "ipa": "/məˈnɪs.kəs/",
+        "pos": "Noun",
+        "word": "meniscus"
+    },
+    {
+        "date": "2026-04-22",
+        "definition": "Unvarying, calm and steady; constant and uniform.",
+        "ipa": "/ˈɛk.wə.bəl/",
+        "pos": "Adjective",
+        "word": "equable"
+    },
+    {
+        "date": "2026-04-23",
+        "definition": "(physics) An electrically insulating or nonconducting material considered for its electric susceptibility, i.e. its property of polarization when exposed to an external electric field.",
+        "ipa": "/ˌdaɪ.ɪˈlɛk.tɹɪk/",
+        "pos": "Noun",
+        "word": "dielectric"
+    },
+    {
+        "date": "2026-04-24",
+        "definition": "(transitive) To keep away from; to avoid; to abstain from.",
+        "ipa": "/fɔːˈbɛə/",
+        "pos": "Verb",
+        "word": "forbear"
+    },
+    {
+        "date": "2026-04-25",
+        "definition": "An exclusive hereditary or official right or privilege.",
+        "ipa": "/pɹɪˈɹɒɡ.ə.tɪv/",
+        "pos": "Noun",
+        "word": "prerogative"
+    },
+    {
+        "date": "2026-04-26",
+        "definition": "(obsolete) Doomed; lost.",
+        "ipa": "/lɔːn/",
+        "pos": "Adjective",
+        "word": "lorn"
+    },
+    {
+        "date": "2026-04-27",
+        "definition": "(transitive) To cut down or reduce.",
+        "ipa": "/ɹɪˈtɹɛnt͡ʃ/",
+        "pos": "Verb",
+        "word": "retrench"
+    },
+    {
+        "date": "2026-04-28",
+        "definition": "(obsolete) The condition of being friends; friendship; also, the ability or inclination to make friends.",
+        "ipa": "/ˈkɹəʊnɪɪz(ə)m/",
+        "pos": "Noun",
+        "word": "cronyism"
+    },
+    {
+        "date": "2026-04-29",
+        "definition": "Proper, real, genuine, true to type.",
+        "ipa": "/ɛkt/",
+        "pos": "Adjective",
+        "word": "echt"
+    },
+    {
+        "date": "2026-04-30",
+        "definition": "(often derogatory, also figuratively) The lowest class of society; also, the lower classes of society generally; the masses.",
+        "ipa": "/ˌpɹəʊ.lɪˈtɛə.ɹɪ.ət/",
+        "pos": "Noun",
+        "word": "proletariat"
+    },
+    {
+        "date": "2026-05-01",
+        "definition": "Possessing or showing courage or determination; brave, heroic.",
+        "ipa": "/ˈvæliənt/",
+        "pos": "Adjective",
+        "word": "valiant"
+    },
+    {
+        "date": "2026-05-02",
+        "definition": "Of animals, plants, or substances: extremely venomous or poisonous.",
+        "ipa": "/ˈvɪɹ(j)ʊl(ə)nt/",
+        "pos": "Adjective",
+        "word": "virulent"
+    },
+    {
+        "date": "2026-05-03",
+        "definition": "(dated) In a sweat; covered or soaked with sweat or some liquid resembling sweat; sweating.",
+        "ipa": "/əˈswɛt/",
+        "pos": "Adjective",
+        "word": "asweat"
+    },
+    {
+        "date": "2026-05-04",
+        "definition": "(ecology) Of, inhabiting, or growing in mountain areas; specifically, the cool, moist upland slopes below the timberline. [from mid 19th c.]",
+        "ipa": "/ˈmɒnteɪn/",
+        "pos": "Adjective",
+        "word": "montane"
+    },
+    {
+        "date": "2026-05-05",
+        "definition": "Containing or using more words than necessary; long-winded, wordy. [from 17th c.]",
+        "ipa": "/vəˈbəʊs/",
+        "pos": "Adjective",
+        "word": "verbose"
+    },
+    {
+        "date": "2026-05-06",
+        "definition": "(obsolete) An idiot, a simpleton.",
+        "ipa": "/ˈtʃeɪn(d)ʒlɪŋ/",
+        "pos": "Noun",
+        "word": "changeling"
+    },
+    {
+        "date": "2026-05-07",
+        "definition": "(US, Canada) A marking (often consisting of an image of a bicycle with two inverted V shapes either above or below it) on the surface of a paved road shared by both bicycles and other vehicles indicating a portion of the road that cyclists may use. [from c. 2004]",
+        "ipa": "/ˈʃæɹəʊ/",
+        "pos": "Noun",
+        "word": "sharrow"
+    },
+    {
+        "date": "2026-05-08",
+        "definition": "(uncountable) The state of being bothered; annoyance, vexation.",
+        "ipa": "/ˌbɒðəˈɹeɪʃn̩/",
+        "pos": "Noun",
+        "word": "botheration"
+    },
+    {
+        "date": "2026-05-09",
+        "definition": "(intransitive) To deliberately act evasively or prolong a discussion in order to gain time or postpone a decision, sometimes so that a compromise can be reached or simply to make a conversation more temperate; to stall for time.",
+        "ipa": "/ˈtɛmpəɹaɪz/",
+        "pos": "Verb",
+        "word": "temporize"
+    },
+    {
+        "date": "2026-05-10",
+        "definition": "(intransitive, obsolete) To assemble in a crowd, whether orderly or disorderly; to collect in company.",
+        "ipa": "/ɹaʊt/",
+        "pos": "Verb",
+        "word": "rout"
+    },
+    {
+        "date": "2026-05-11",
+        "definition": "(countable) Any of various game birds of the subfamily Tetraoninae which inhabit temperate and subarctic regions of the Northern Hemisphere; specifically, the red grouse (Lagopus lagopus scotica) native to heather moorland on the British Isles. [from 1530s]",
+        "ipa": "/ɡɹaʊs/",
+        "pos": "Noun",
+        "word": "grouse"
+    },
+    {
+        "date": "2026-05-12",
+        "definition": "Wearing a fez (“a felt hat shaped like a truncated cone with a tassel attached”); fezzed.",
+        "ipa": "/bɪˈfɛzd/",
+        "pos": "Adjective",
+        "word": "befezzed"
+    },
+    {
+        "date": "2026-05-13",
+        "definition": "(archaic) simple past and past participle of clothe",
+        "ipa": "/klæd/",
+        "pos": "Verb",
+        "word": "clad"
+    },
+    {
+        "date": "2026-05-14",
+        "definition": "(uncountable) Backache of the lumbar region or lower back, which can be caused by muscle strain or a slipped disc.",
+        "ipa": "/lʌmˈbeɪɡəʊ/",
+        "pos": "Noun",
+        "word": "lumbago"
+    },
+    {
+        "date": "2026-05-15",
+        "definition": "(countable, uncountable) The act of paying court, that is, demonstrating such politeness and respect as is traditionally given at a court (“a formal assembly of a sovereign's retinue”).",
+        "ipa": "/ˈkɔːt.ʃɪp/",
+        "pos": "Noun",
+        "word": "courtship"
+    },
+    {
+        "date": "2026-05-16",
+        "definition": "(philosophy) Of animal behaviour: deterministic, preprogrammed. [from 1982]",
+        "ipa": "/ˈsfɛksɪʃ/",
+        "pos": "Adjective",
+        "word": "sphexish"
+    },
+    {
+        "date": "2026-05-17",
+        "definition": "Plain and unfashionable in style or dress.",
+        "ipa": "/ˈdaʊdi/",
+        "pos": "Adjective",
+        "word": "dowdy"
+    },
+    {
+        "date": "2026-05-18",
+        "definition": "An amazing or marvellous thing; a wonder. [from 17th c.]",
+        "ipa": "/ˈpɹɒdɪd͡ʒi/",
+        "pos": "Noun",
+        "word": "prodigy"
+    },
+    {
+        "date": "2026-05-19",
+        "definition": "Excessive, overabundant, rife; loosely, abundant, varied. [from 17th c.]",
+        "ipa": "/ˈplɛθəɹɪk/",
+        "pos": "Adjective",
+        "word": "plethoric"
+    },
+    {
+        "date": "2026-05-20",
+        "definition": "(linguistics) A loanword that has spread to many different languages, often through trade or the adoption of foreign cultural practices.",
+        "ipa": "/ˈwɒndəˌwɜːt/",
+        "pos": "Noun",
+        "word": "Wanderwort"
+    },
+    {
+        "date": "2026-05-21",
+        "definition": "(chiefly humorous) A (male) leader; an important (male) person.",
+        "ipa": "/ˈmʌɡwʌmp/",
+        "pos": "Noun",
+        "word": "mugwump"
+    },
+    {
+        "date": "2026-05-22",
+        "definition": "(sculpture) In the form of cavo-rilievo (“sculpture in relief within a sinking made for the purpose, so no part of it projects beyond the surrounding surface”).",
+        "ipa": "/ˌsiːlænəˈɡlɪfɪk/",
+        "pos": "Adjective",
+        "word": "coelanaglyphic"
+    },
+    {
+        "date": "2026-05-23",
+        "definition": "An arrangement of pictures, symbols, or words representing phrases or words, especially as a word puzzle.",
+        "ipa": "/ˈɹiːbəs/",
+        "pos": "Noun",
+        "word": "rebus"
+    },
+    {
+        "date": "2026-05-24",
+        "definition": "(frequently postpositive) Unequalled, unrivalled; unique. [from 15th c.]",
+        "ipa": "/nɒnpəˈɹeɪ(l)/",
+        "pos": "Adjective",
+        "word": "nonpareil"
+    },
+    {
+        "date": "2026-05-25",
+        "definition": "Worse than optimal; of less than the highest standard or quality.",
+        "ipa": "/sʌbˈɑptɪməl/",
+        "pos": "Adjective",
+        "word": "suboptimal"
+    },
+    {
+        "date": "2026-05-26",
+        "definition": "(linguistics) A word formed by putting two words together and thereby their meaning.",
+        "ipa": "/pɔːtˈmæn.təʊ/",
+        "pos": "Noun",
+        "word": "portmanteau"
+    },
+    {
+        "date": "2026-05-27",
+        "definition": "(transitive) To treat with calcium hydroxide or calcium oxide (lime).",
+        "ipa": "/laɪm/",
+        "pos": "Verb",
+        "word": "lime"
+    },
+    {
+        "date": "2026-05-28",
+        "definition": "A form or state of connection.",
+        "ipa": "/ˈnɛksəs/",
+        "pos": "Noun",
+        "word": "nexus"
+    },
+    {
+        "date": "2026-05-29",
+        "definition": "(zoology) Having the shape of a ram's head or of the astrological symbol of Aries, ⟨♈︎⟩.",
+        "ipa": "/ˌɛəɹiˈɛtɪfɔːm/",
+        "pos": "Adjective",
+        "word": "arietiform"
+    },
+    {
+        "date": "2026-05-30",
+        "definition": "(countable) Something that is either a source of happiness or particularly apt.",
+        "ipa": "/fɪˈlɪsɪti/",
+        "pos": "Noun",
+        "word": "felicity"
+    },
+    {
+        "date": "2026-05-31",
+        "definition": "(formal) Good for drinking without fear of waterborne disease or poisoning.",
+        "ipa": "/ˈpəʊtəbəl/",
+        "pos": "Adjective",
+        "word": "potable"
+    },
+    {
+        "date": "2026-06-01",
+        "definition": "(astrophysics) The gravitational stretching of objects into long, thin shapes, usually near a black hole. [from late 20th c.]",
+        "ipa": "/spəˌɡɛtɪfɪˈkeɪʃən/",
+        "pos": "Noun",
+        "word": "spaghettification"
+    },
+    {
+        "date": "2026-06-02",
+        "definition": "(uncountable) The action of forbearing (“abstaining or refraining from doing something”); (countable) an instance of this.",
+        "ipa": "/fəˈbɛːɹ(ə)n(t)s/",
+        "pos": "Noun",
+        "word": "forbearance"
+    },
+    {
+        "date": "2026-06-03",
+        "definition": "Especially of a person: deserving of disgrace or dishonour; contemptible, despicable.",
+        "ipa": "/ˌɪɡ.nə(ʊ)ˈmɪ.ni.əs/",
+        "pos": "Adjective",
+        "word": "ignominious"
+    },
+    {
+        "date": "2026-06-04",
+        "definition": "(figurative) The condition or quality of being unaffected by something.",
+        "ipa": "/(ˌ)ʌnˈlɛvn̩dnəs/",
+        "pos": "Noun",
+        "word": "unleavenedness"
+    },
+    {
+        "date": "2026-06-05",
+        "definition": "One who roves: a person or animal that travels around, especially over a wide area, without a fixed destination; a nomad, a roamer, a wanderer.",
+        "ipa": "/ˈɹəʊvə/",
+        "pos": "Noun",
+        "word": "rover"
+    },
+    {
+        "date": "2026-06-06",
+        "definition": "(astronomy) Sunlight reflected from the Earth's surface, especially when visible on the part of the Moon's surface not illuminated by the Sun (the night side); earthlight.",
+        "ipa": "/ˈɜːθʃaɪn/",
+        "pos": "Noun",
+        "word": "earthshine"
+    },
+    {
+        "date": "2026-06-07",
+        "definition": "(uncountable) Synonym of fourness (“the property or state of being four in number”).",
+        "ipa": "/kwəˈtɜːnɪti/",
+        "pos": "Noun",
+        "word": "quaternity"
+    },
+    {
+        "date": "2026-06-08",
+        "definition": "To sharpen (something, such as a knife or sword) by rubbing on an object, especially a whetstone; to hone.",
+        "ipa": "/ˈwɛt/",
+        "pos": "Verb",
+        "word": "whet"
+    },
+    {
+        "date": "2026-06-09",
+        "definition": "(chiefly historical) A long, narrow flag or streamer, often swallowtailed or triangular, usually hung at the top of a helmet or lance, originally the ensign of a knight under the rank of knight banneret, and later of a lancer regiment.",
+        "ipa": "/ˈpɛnən/",
+        "pos": "Noun",
+        "word": "pennon"
+    },
+    {
+        "date": "2026-06-10",
+        "definition": "(obsolete) Different, unlike.",
+        "ipa": "/əˈsʌndə/",
+        "pos": "Adjective",
+        "word": "asunder"
+    },
+    {
+        "date": "2026-06-11",
+        "definition": "(UK, chiefly Wales) synonym of altar tomb or dolmen (“a prehistoric megalithic tomb consisting of a (somewhat) flat capstone lying horizontally on two or more upright stones”), especially one located in Wales, but also in England (chiefly Cornwall and Devon) or Ireland.",
+        "ipa": "/ˈkɹɒmlɛk/",
+        "pos": "Noun",
+        "word": "cromlech"
+    },
+    {
+        "date": "2026-06-12",
+        "definition": "A professional poet and singer, like among the ancient Celts, whose occupation was to compose and sing verses in honor of the heroic achievements of princes and brave men.",
+        "ipa": "/bɑːd/",
+        "pos": "Noun",
+        "word": "bard"
+    },
+    {
+        "date": "2026-06-13",
+        "definition": "(uncountable) The practice of allowing domesticated animals to graze in forested or wooded areas.",
+        "ipa": "/ˈsɪlvəpɑːst͡ʃə/",
+        "pos": "Noun",
+        "word": "silvopasture"
+    },
+    {
+        "date": "2026-06-14",
+        "definition": "(originally UK, dialectal, now chiefly Australia, New Zealand, chiefly in the negative) A very small amount or portion; the least bit.",
+        "ipa": "/ˈskɛɹɪk/",
+        "pos": "Noun",
+        "word": "skerrick"
+    },
+    {
+        "date": "2026-06-15",
+        "definition": "A work, especially of art.",
+        "ipa": "/ˈəʊpəs/",
+        "pos": "Noun",
+        "word": "opus"
+    },
+    {
+        "date": "2026-06-16",
+        "definition": "(rhetoric) A figure of speech in which the latter part of a sentence or phrase is surprising or unexpected in a way that causes the reader or listener to reframe or reinterpret the first part.",
+        "ipa": "/ˌpæɹəˌpɹoʊsˈdoʊkiən/",
+        "pos": "Noun",
+        "word": "paraprosdokian"
+    },
+    {
+        "date": "2026-06-17",
+        "definition": "Overdone or treacly attempts to inspire pathos.",
+        "ipa": "/ˈbeɪθɒs/",
+        "pos": "Noun",
+        "word": "bathos"
+    },
+    {
+        "date": "2026-06-18",
+        "definition": "The quality or state of being tenacious, or persistence of purpose; tenaciousness.",
+        "ipa": "/təˈnæs.ɪ.ti/",
+        "pos": "Noun",
+        "word": "tenacity"
+    },
+    {
+        "date": "2026-06-19",
+        "definition": "(archaic, rare) A female person who executes or carries out something.",
+        "ipa": "/ɪɡˈzɛkjuːtɹɪks/",
+        "pos": "Noun",
+        "word": "executrix"
+    },
+    {
+        "date": "2026-06-20",
+        "definition": "(figurative) Freeing, liberating.",
+        "ipa": "/ˌmænjʊˈmɪsɪv/",
+        "pos": "Adjective",
+        "word": "manumissive"
+    },
+    {
+        "date": "2026-06-21",
+        "definition": "Happening or occurring during daylight, or primarily active during that time.",
+        "ipa": "/daɪˈɜːnəl/",
+        "pos": "Adjective",
+        "word": "diurnal"
+    },
+    {
+        "date": "2026-06-22",
+        "definition": "(obsolete) A minor addition to a text.",
+        "ipa": "/mænˈtɪsə/",
+        "pos": "Noun",
+        "word": "mantissa"
+    },
+    {
+        "date": "2026-06-23",
+        "definition": "(archaic, literary) Slanting, oblique.",
+        "ipa": "/əˈslɑːnt/",
+        "pos": "Adjective",
+        "word": "aslant"
+    },
+    {
+        "date": "2026-06-24",
+        "definition": "(countable) An act of asserting or maintaining; an assertion.",
+        "ipa": "/ˌvɪndɪˈkeɪʃn̩/",
+        "pos": "Noun",
+        "word": "vindication"
+    },
+    {
+        "date": "2026-06-25",
+        "definition": "(chiefly in Dutch contexts, rare) Having a cosy or pleasant, or sociable atmosphere; convivial and inviting. [from late 20th c.]",
+        "ipa": "/ɡəˈzɛlɪɡ/",
+        "pos": "Adjective",
+        "word": "gezellig"
+    },
+    {
+        "date": "2026-06-26",
+        "definition": "(chiefly property law) A small piece of land, such as a garth or yard with the buildings and structures on it, immediately surrounding a dwelling house and legally regarded as part of its property; originally, such areas were enclosed by a fence or wall.",
+        "ipa": "/ˈkɜːtɪlɪd͡ʒ/",
+        "pos": "Noun",
+        "word": "curtilage"
+    },
+    {
+        "date": "2026-06-27",
+        "definition": "(ornithology, uncountable) The feathers covering the body of a bird collectively.",
+        "ipa": "/ˈpluːmɪd͡ʒ/",
+        "pos": "Noun",
+        "word": "plumage"
+    },
+    {
+        "date": "2026-06-28",
+        "definition": "(figurative, now usually humorous) Neat and tidy.",
+        "ipa": "/kɛm(p)t/",
+        "pos": "Adjective",
+        "word": "kempt"
+    },
+    {
+        "date": "2026-06-29",
+        "definition": "(chiefly humorous, rare) Of or relating to, or in the manner of, an aunt.",
+        "ipa": "/məˈtɜːtəɹl̩/",
+        "pos": "Adjective",
+        "word": "materteral"
+    },
+    {
+        "date": "2026-06-30",
+        "definition": "The fear of clowns.",
+        "ipa": "/kəʊl.ɹəˈfəʊ.bi.ə/",
+        "pos": "Noun",
+        "word": "coulrophobia"
+    }
+]
