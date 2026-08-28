@@ -51,7 +51,7 @@ import java.util.List;
 @Slf4j
 @PluginDescriptor(
 	name = "Word of the Day",
-		description = " A plugin that provides a daily word of the day and it's definition."
+		description = "A plugin that provides a daily word of the day and its definition."
 )
 public class WordOfTheDayPlugin extends Plugin
 {
@@ -150,6 +150,11 @@ public class WordOfTheDayPlugin extends Plugin
 
 		// display the word of the day
 		sendChatMessage(formattedWord);
+
+		String formattedExample = new ChatMessageBuilder().append(ChatColorType.NORMAL).append("Example: \"").append(entry.example).append("\"").build();
+
+		// Display the example of the word
+		sendChatMessage(formattedExample);
 
 		if (config.showOncePerDay())
 		{
