@@ -47,11 +47,14 @@ import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.time.LocalDate;
 import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Random;
 
 @Slf4j
 @PluginDescriptor(
 	name = "Word of the Day",
-		description = "A plugin that provides a daily word of the day and its definition."
+		description = "A plugin that provides a daily word of the day."
 )
 public class WordOfTheDayPlugin extends Plugin
 {
@@ -70,6 +73,7 @@ public class WordOfTheDayPlugin extends Plugin
 	private boolean loggingIn;
 	private boolean pendingLogin;
 	List<WordEntry> words;
+	private List<WordEntry> shuffledWords;
 
 	@Provides
 	WordOfTheDayConfig provideConfig(ConfigManager configManager)
@@ -85,6 +89,7 @@ public class WordOfTheDayPlugin extends Plugin
 		{
 			words = gson.fromJson(reader, new TypeToken<List<WordEntry>>(){}.getType());
 			log.debug("Loaded {} words", words.size());
+			initShuffledWords();
 		}
 		catch (Exception e)
 		{
@@ -128,9 +133,15 @@ public class WordOfTheDayPlugin extends Plugin
 			checkWordOfDay();
 		}
 	}
+	// create a method that calls the Collecton.shuffle to shuffle a new list called shuffledWords
+	private void initShuffledWords(){
+		shuffledWords = new ArrayList<>(words);
+		Collections.shuffle(shuffledWords, new Random(1234567891L));
+	}
 
 	public void checkWordOfDay()
 	{
+		// create todayDate to store local datetime as a string.
 		String todayDate = LocalDate.now().toString();
 		if (config.showOncePerDay())
 		{
@@ -140,11 +151,12 @@ public class WordOfTheDayPlugin extends Plugin
 				return;
 			}
 		}
-		// int ends up being some number between 0-545, changes daily
-		int index = (int)(LocalDate.now().toEpochDay() % words.size());
+		// index will be date time passed into epoch day (1/1/1970) mod the size of shuffledWords.
+		// result with be a number x through the size of shuffledWords
+		int index = (int)(LocalDate.now().toEpochDay() % shuffledWords.size());
 
 		// grab the word using the index
-		WordEntry entry = words.get(index);
+		WordEntry entry = shuffledWords.get(index);
 
 		String formattedWord = new ChatMessageBuilder().append(ChatColorType.NORMAL).append("Word of The Day: ").append(Color.ORANGE, entry.word).append(ChatColorType.NORMAL).append(" (").append(entry.pos.toLowerCase()).append(") - ").append(entry.definition).build();
 
@@ -153,7 +165,7 @@ public class WordOfTheDayPlugin extends Plugin
 
 		String formattedExample = new ChatMessageBuilder().append(ChatColorType.NORMAL).append("Example: \"").append(entry.example).append("\"").build();
 
-		// Display the example of the word
+		// display the example of the word
 		sendChatMessage(formattedExample);
 
 		if (config.showOncePerDay())

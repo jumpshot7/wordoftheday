@@ -37,7 +37,7 @@ public interface WordOfTheDayConfig extends Config
 			position = 1,
 			keyName = "showOncePerDay",
 			name = "Show only once per day",
-			description = "Toggle if you don't want to see the word of they day each time you log in that day."
+			description = "Toggle if you don't want to see the word of they day each time you log in."
 	)
 
 	default boolean showOncePerDay()
